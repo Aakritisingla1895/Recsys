@@ -1,0 +1,28 @@
+def get_google_results(list_of_links):
+    try:
+        from googlesearch import search
+
+        search_article = str( list_of_links)
+        for j in search(search_article, tld="co.in", num=10, stop=1, pause=2):
+            result = j
+    except ImportError:
+        print("No module named 'google' found")
+    # to search
+
+    return result
+print (get_google_results())
+
+
+
+
+import csv
+import os
+
+root = 'E:/Dissertation/Project/RecomenSys'
+out_file = open('E:\\Dissertation\\Project\\RecomenSys\\bio.csv','w')
+with open('bio_latest.csv') as in_file:
+    with open('bio.csv', 'w') as out_file:
+        writer = csv.writer(out_file)
+        for row in csv.reader(in_file):
+            if row:
+                writer.writerow(row)
