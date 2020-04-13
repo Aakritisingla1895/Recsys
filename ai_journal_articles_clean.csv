@@ -1,0 +1,604 @@
+affliations,article_name,authors,doi,email_address,publishing_date,volume,type,author_id
+,Solving the Torpedo Scheduling Problem,"Martin Josef Geiger,Lucas Kletzander,Nysret Musliu",https://doi.org/10.1613/jair.1.11303,,,Vol. 66 (2019),article,31
+,Xeggora: Exploiting Immune-to-Evidence Symmetries with Full Aggregation in Statistical Relational Models,"Mohammad Mahdi Amirian,Saeed Shiry Ghidary",https://doi.org/10.1613/jair.1.11322,,,Vol. 66 (2019),article,10
+,Recognizing Top-Monotonic Preference Profiles in Polynomial Time,"Krzysztof Magiera,Piotr Faliszewski",https://doi.org/10.1613/jair.1.11331,,,Vol. 66 (2019),article,17
+,Rationalisation of Profiles of Abstract Argumentation Frameworks: Characterisation and Complexity,"Stéphane Airiau,Elise Bonzon,Ulle Endriss,Nicolas Maudet,Julien Rossit",https://doi.org/10.1613/jair.5436,,,Vol. 60 (2017),article,39
+,Probabilistic Description Logics for Subjective Uncertainty,"Victor Gutierrez-Basulto,Jean Christoph Jung,Carsten Lutz,Lutz Schröder",https://doi.org/10.1613/jair.5222,,,Vol. 58 (2017),article,47
+,Kernel Contraction and Base Dependence,"Mehrdad Oveisi,James P. Delgrande,Francis Jeffry Pelletier,Fred Popowich",https://doi.org/10.1613/jair.5496,,,Vol. 60 (2017),article,50
+,The Computational Complexity of Structure-Based Causality,"Gadi Aleksandrowicz,Hana Chockler,Joseph Y. Halpern,Alexander Ivrii",https://doi.org/10.1613/jair.5229,,,Vol. 58 (2017),article,52
+,Dynamic Repositioning to Reduce Lost Demand in Bike Sharing Systems,"Supriyo Ghosh,Pradeep Varakantham,Yossiri Adulyasak,Patrick Jaillet",https://doi.org/10.1613/jair.5308,,,Vol. 58 (2017),article,62
+,Using Collective Behavior of Coupled Oscillators for Solving DCOP,"Allan R. Leite,Fabricio Enembreck",https://doi.org/10.1613/jair.1.11468,,,Vol. 64 (2019),article,93
+,Conditional Simple Temporal Networks with Uncertainty and Resources,"Carlo Combi,Roberto Posenato,Luca Viganò,Matteo Zavatteri",https://doi.org/10.1613/jair.1.11453,,,Vol. 64 (2019),article,84
+,Qualitative Spatial Logics for Buffered Geometries,"Heshan Du,Natasha Alechina",https://doi.org/10.1613/jair.5140,,,Vol. 56 (2016),article,29
+,The IBaCoP Planning System: Instance-Based Configured Portfolios,"Isabel Cenamor,Tomás de la Rosa,Fernando Fernández",https://doi.org/10.1613/jair.5080,,,Vol. 56 (2016),article,34
+,Datalog+- Ontology Consolidation,"Cristhian Ariel D. Deagustini,Maria Vanina Martinez,Marcelo A. Falappa,Guillermo R. Simari",https://doi.org/10.1613/jair.5131,,,Vol. 56 (2016),article,39
+,Lazy Model Expansion: Interleaving Grounding with Search,"Broes De Cat,Marc Denecker,Maurice Bruynooghe,Peter Stuckey",https://doi.org/10.1613/jair.4591,,,Vol. 52 (2015),article,49
+,A Study of Proxies for Shapley Allocations of Transport Costs,"Haris Aziz,Casey Cahan,Charles Gretton,Philip Kilby,Nicholas Mattei,Toby Walsh",https://doi.org/10.1613/jair.5021,,,Vol. 56 (2016),article,24
+,An Exact Double-Oracle Algorithm for Zero-Sum Extensive-Form Games with Imperfect Information,"B. Bosansky,C. Kiekintveld,V. Lisy,M. Pechoucek",https://doi.org/10.1613/jair.4477,,,Vol. 51 (2014),article,43
+,"A Compositional Framework for Grounding Language Inference, Generation, and Acquisition in Video","Haonan Yu,N. Siddharth,Andrei Barbu,Jeffrey Mark Siskind",https://doi.org/10.1613/jair.4556,,,Vol. 52 (2015),article,47
+,A Hidden Markov Model-Based Acoustic Cicada Detector for Crowdsourced Smartphone Biodiversity Monitoring,"D. Zilli,O. Parson,G. V. Merrett,A. Rogers",https://doi.org/10.1613/jair.4434,,,Vol. 51 (2014),article,10
+,BDD Ordering Heuristics for Classical Planning,"P. Kissmann,J. Hoffmann",https://doi.org/10.1613/jair.4586,,,Vol. 51 (2014),article,28
+,Tutorial on Structured Continuous-Time Markov Processes,"C. R. Shelton,G. Ciardo",https://doi.org/10.1613/jair.4415,,,Vol. 51 (2014),article,32
+,The Complexity of Answering Conjunctive and Navigational Queries over OWL 2 EL Knowledge Bases,"G. Stefanoni,B. Motik,M. Kroetzsch,S. Rudolph",https://doi.org/10.1613/jair.4457,,,Vol. 51 (2014),article,28
+,On Minimum Representations of Matched Formulas,"O. Cepek,S. Gursky,P. Kucera",https://doi.org/10.1613/jair.4517,,,Vol. 51 (2014),article,43
+,Using Meta-mining to Support Data Mining Workflow Planning and Optimization,"P. Nguyen,M. Hilario,A. Kalousis",https://doi.org/10.1613/jair.4377,,,Vol. 51 (2014),article,69
+,No Agent Left Behind: Dynamic Fair Division of Multiple Resources,"I. Kash,A. D. Procaccia,N. Shah",https://doi.org/10.1613/jair.4405,,,Vol. 51 (2014),article,59
+,Iterative Plan Construction for the Workflow Satisfiability Problem,"D. Cohen,J. Crampton,A. Gagarin,G. Gutin,M. Jones",https://doi.org/10.1613/jair.4435,,,Vol. 51 (2014),article,38
+,Reasoning about Topological and Cardinal Direction Relations Between 2-Dimensional Spatial Objects,"A. G. Cohn,S. Li,W. Liu,J. Renz",https://doi.org/10.1613/jair.4513,,,Vol. 51 (2014),article,39
+,Optimal Scheduling of Contract Algorithms for Anytime Problem-Solving,"A. Lopez-Ortiz,S. Angelopoulos,A. M. Hamel",https://doi.org/10.1613/jair.4360,,,Vol. 51 (2014),article,20
+,Push and Rotate: a Complete Multi-agent Pathfinding Algorithm,"B. de Wilde,A. W. ter Mors,C. Witteveen",https://doi.org/10.1613/jair.4447,,,Vol. 51 (2014),article,93
+,Scoring Functions Based on Second Level Score for k-SAT with Long Clauses,"S. Cai,C. Luo,K. Su",https://doi.org/10.1613/jair.4480,,,Vol. 51 (2014),article,46
+,A Novel SAT-Based Approach to Model Based Diagnosis,"A. Metodi,R. Stern,M. Kalech,M. Codish",https://doi.org/10.1613/jair.4503,,,Vol. 51 (2014),article,38
+,Verification of Agent-Based Artifact Systems,"F. Belardinelli,A. Lomuscio,F. Patrizi",https://doi.org/10.1613/jair.4424,,,Vol. 51 (2014),article,38
+,Distributed Heuristic Forward Search for Multi-agent Planning,"R. Nissim,R. Brafman",https://doi.org/10.1613/jair.4295,,,Vol. 51 (2014),article,88
+,Automaton Plans,"C. Bäckström,A. Jonsson,P. Jonsson",https://doi.org/10.1613/jair.4391,,,Vol. 51 (2014),article,48
+,Entrenchment-Based Horn Contraction,"Z. Zhuang,M. Pagnucco",https://doi.org/10.1613/jair.4430,,,Vol. 51 (2014),article,30
+,Sensitivity of Diffusion Dynamics to Network Uncertainty,"A. Adiga,C. J. Kuhlman,H. S. Mortveit,A. K. S. Vullikanti",https://doi.org/10.1613/jair.4330,,,Vol. 51 (2014),article,20
+,Simple Regret Optimization in Online Planning for Markov Decision Processes,"Z. Feldman,C. Domshlak",https://doi.org/10.1613/jair.4432,,,Vol. 51 (2014),article,49
+,Text Rewriting Improves Semantic Role Labeling,"K. Woodsend,M. Lapata",https://doi.org/10.1613/jair.4431,,,Vol. 51 (2014),article,48
+,On the Testability of BDI Agent Systems,"M. Winikoff,S. Cranefield",https://doi.org/10.1613/jair.4458,,,Vol. 51 (2014),article,89
+,Cooperative Monitoring to Diagnose Multiagent Plans,"R. Micalizio,P. Torasso",https://doi.org/10.1613/jair.4339,,,Vol. 51 (2014),article,43
+,"Belief Tracking for Planning with Sensing: Width, Complexity and Approximations","B. Bonet,H. Geffner",https://doi.org/10.1613/jair.4475,,,Vol. 50 (2014),article,38
+,Arbitration and Stability in Cooperative Games with Overlapping Coalitions,"Y. Zick,E. Markakis,E. Elkind",https://doi.org/10.1613/jair.4237,,,Vol. 50 (2014),article,84
+,Speeding Up Iterative Ontology Alignment using Block-Coordinate Descent,"U. Thayasivam,P. Doshi",https://doi.org/10.1613/jair.4366,,,Vol. 50 (2014),article,48
+,Demand Side Energy Management via Multiagent Coordination in Consumer Cooperatives,"A. Veit,Y. Xu,R. Zheng,N. Chakraborty,K. Sycara",https://doi.org/10.1613/jair.4416,,,Vol. 50 (2014),article,42
+,Policy Iteration Based on Stochastic Factorization,"A. M. S. Barreto,J. Pineau,D. Precup",https://doi.org/10.1613/jair.4301,,,Vol. 50 (2014),article,93
+,Sentiment Analysis of Short Informal Texts,"S. Kiritchenko,X. Zhu,S. M. Mohammad",https://doi.org/10.1613/jair.4272,,,Vol. 50 (2014),article,92
+,MDD Propagation for Sequence Constraints,"D. Bergman,A. A. Cire,W. van Hoeve",https://doi.org/10.1613/jair.4199,,,Vol. 50 (2014),article,78
+,Planning through Automatic Portfolio Configuration: The PbP Approach,"A. Gerevini,A. Saetti,M. Vallati",https://doi.org/10.1613/jair.4359,,,Vol. 50 (2014),article,56
+,Probabilistic Inference in Credal Networks: New Complexity Results,"D. D. Maua,C. P. de Campos,A. Benavoli,A. Antonucci",https://doi.org/10.1613/jair.4355,,,Vol. 50 (2014),article,45
+,False-Name Manipulation in Weighted Voting Games is Hard for Probabilistic Polynomial Time,"A. Rey,J. Rothe",https://doi.org/10.1613/jair.4293,,,Vol. 50 (2014),article,35
+,Improving Delete Relaxation Heuristics Through Explicitly Represented Conjunctions,"E. Keyder,J. Hoffmann,P. Haslum",https://doi.org/10.1613/jair.4277,,,Vol. 50 (2014),article,58
+,Integrating Queueing Theory and Scheduling for Dynamic Scheduling Problems,"D. Terekhov,T. T. Tran,D. G. Down,J.C. Beck",https://doi.org/10.1613/jair.4278,,,Vol. 50 (2014),article,63
+,"Monotone Temporal Planning: Tractability, Extensions and Applications","M. Cooper,F. Maris,P. Régnier",https://doi.org/10.1613/jair.4358,,,Vol. 50 (2014),article,40
+,A Multivariate Complexity Analysis of Lobbying in Multiple Referenda,"R. Bredereck,J. Chen,S. Hartung,S. Kratsch,R. Niedermeier,O. Suchy,G. J. Woeginger",https://doi.org/10.1613/jair.4285,,,Vol. 50 (2014),article,81
+,HC-Search: A Learning Framework for Search-based Structured Prediction,"J.R. Doppa,A. Fern,P. Tadepalli",https://doi.org/10.1613/jair.4212,,,Vol. 50 (2014),article,43
+,Game-Theoretic Patrolling with Dynamic Execution Uncertainty and a Case Study on a Real Transit System,"F.M. Delle Fave,A.X. Jiang,Z. Yin,C. Zhang,M. Tambe,S. Kraus,J. P. Sullivan",https://doi.org/10.1613/jair.4317,,,Vol. 50 (2014),article,80
+,Property Directed Reachability for Automated Planning,M. Suda,https://doi.org/10.1613/jair.4231,,,Vol. 50 (2014),article,37
+,Reconnection with the Ideal Tree: A New Approach to Real-Time Search,"N. Rivera,L. Illanes,J. A. Baier,C. Hernandez",https://doi.org/10.1613/jair.4292,,,Vol. 50 (2014),article,62
+,Enhanced Partial Expansion A*,"M. Goldenberg,A. Felner,R. Stern,G. Sharon,N. Sturtevant,R. C. Holte,J. Schaeffer",https://doi.org/10.1613/jair.4171,,,Vol. 50 (2014),article,40
+,An Efficient Algorithm for Estimating State Sequences in Imprecise Hidden Markov Models,"J. De Bock,G. de Cooman",https://doi.org/10.1613/jair.4385,,,Vol. 50 (2014),article,48
+,Finding Optimal Solutions for Voting Game Design Problems,"B. de Keijzer,T. B. Klos,Y. Zhang",https://doi.org/10.1613/jair.4109,,,Vol. 50 (2014),article,74
+,A Decision-Theoretic Model of Assistance,"A. Fern,S. Natarajan,K. Judah,P. Tadepalli",https://doi.org/10.1613/jair.4213,,,Vol. 50 (2014),article,34
+,Knowledge Forgetting in Answer Set Programming,"Y. Wang,Y. Zhang,Y. Zhou,M. Zhang",https://doi.org/10.1613/jair.4297,,,Vol. 50 (2014),article,38
+,Topic-Based Dissimilarity and Sensitivity Models for Translation Rule Selection,"M. Zhang,X. Xiao,D. Xiong,Q. Liu",https://doi.org/10.1613/jair.4265,,,Vol. 50 (2014),article,29
+,Belief Change with Uncertain Action Histories,"Aaron Hunter,James Delgrande",https://doi.org/10.1613/jair.4558,,,Vol. 53 (2015),article,62
+,AutoFolio: An Automatically Configured Algorithm Selector,"Marius Lindauer,Holger H. Hoos,Frank Hutter,Torsten Schaub",https://doi.org/10.1613/jair.4726,,,Vol. 53 (2015),article,93
+,Mechanisms for Multi-unit Combinatorial Auctions with a Few Distinct Goods,"Piotr Krysta,Orestis Telelis,Carmine Ventre",https://doi.org/10.1613/jair.4587,,,Vol. 53 (2015),article,84
+,Tree-Width and the Computational Complexity of MAP Approximations in Bayesian Networks,Johan Kwisthout,https://doi.org/10.1613/jair.4794,,,Vol. 53 (2015),article,29
+,"On a Practical,  Integer-Linear Programming Model for Delete-Free Tasks and its Use as a Heuristic for Cost-Optimal Planning","Tatsuya Imai,Alex Fukunaga",https://doi.org/10.1613/jair.4936,,,Vol. 54 (2015),article,34
+,Pay-As-You-Go Description Logic Reasoning by Coupling Tableau and Saturation Procedures,"Andreas Steigmiller,Birte Glimm",https://doi.org/10.1613/jair.4897,,,Vol. 54 (2015),article,39
+,Compressing Optimal Paths with Run Length Encoding,"Ben Strasser,Adi Botea,Daniel Harabor",https://doi.org/10.1613/jair.4931,,,Vol. 54 (2015),article,49
+,Possible and Necessary Winners of Partial Tournaments,"Haris Aziz,Markus Brill,Felix Fischer,Paul Harrenstein,Jerome Lang,Hans Georg Seedig",https://doi.org/10.1613/jair.4856,,,Vol. 54 (2015),article,24
+,Continuing Plan Quality Optimisation,"Fazlul Hasan Siddiqui,Patrik Haslum",https://doi.org/10.1613/jair.4980,,,Vol. 54 (2015),article,43
+,Weighted Regret-Based Likelihood: A New Approach to Describing Uncertainty,Joseph Y. Halpern,https://doi.org/10.1613/jair.4859,,,Vol. 54 (2015),article,47
+,Constraining Information Sharing to Improve Cooperative Information Gathering,"Igor Rochlin,David Sarne",https://doi.org/10.1613/jair.4613,,,Vol. 54 (2015),article,10
+,Relations Between Spatial Calculi About Directions and Orientations,"Till Mossakowski,Reinhard Moratz",https://doi.org/10.1613/jair.4631,,,Vol. 54 (2015),article,28
+,PAGOdA: Pay-As-You-Go Ontology Query Answering Using a Datalog Reasoner,"Yujiao Zhou,Bernardo Cuenca Grau,Yavor Nenov,Mark Kaminski,Ian Horrocks",https://doi.org/10.1613/jair.4757,,,Vol. 54 (2015),article,32
+,Decision Making with Dynamic Uncertain Events,"Meir Kalech,Shulamit Reches",https://doi.org/10.1613/jair.4869,,,Vol. 54 (2015),article,28
+,Expressiveness of Two-Valued Semantics for Abstract Dialectical Frameworks,Hannes Strass,https://doi.org/10.1613/jair.4879,,,Vol. 54 (2015),article,43
+,Leveraging Online User Feedback to Improve Statistical Machine Translation,"Lluís Formiga,Alberto Barrón-Cedeño,Lluís Màrquez,Carlos A. Henríquez,José B. Mariño",https://doi.org/10.1613/jair.4716,,,Vol. 54 (2015),article,38
+,Word vs. Class-Based Word Sense Disambiguation,"Ruben Izquierdo,Armando Suarez,German Rigau",https://doi.org/10.1613/jair.4727,,,Vol. 54 (2015),article,39
+,Solving #SAT and MAXSAT by Dynamic Programming,"Sigve Hortemo Sæther,Jan Arne Telle,Martin Vatshelle",https://doi.org/10.1613/jair.4831,,,Vol. 54 (2015),article,20
+,Achieving Goals Quickly Using Real-time Search: Experimental Results in Video Games,"Scott Kiesel,Ethan Burns,Wheeler Ruml",https://doi.org/10.1613/jair.4800,,,Vol. 54 (2015),article,93
+,Placement of Loading Stations for Electric Vehicles: No Detours Necessary!,"Stefan Funke,Andre Nusser,Sabine Storandt",https://doi.org/10.1613/jair.4688,,,Vol. 53 (2015),article,46
+,Knowledge-Based Textual Inference via Parse-Tree Transformations,"Roy Bar-Haim,Ido Dagan,Jonathan Berant",https://doi.org/10.1613/jair.4584,,,Vol. 54 (2015),article,38
+,Evolutionary Dynamics of Multi-Agent Learning: A Survey,"Daan Bloembergen,Karl Tuyls,Daniel Hennes,Michael Kaisers",https://doi.org/10.1613/jair.4818,,,Vol. 53 (2015),article,38
+,ITSAT: An Efficient SAT-Based Temporal Planner,"Masood Feyzbakhsh Rankooh,Gholamreza Ghassem-Sani",https://doi.org/10.1613/jair.4697,,,Vol. 53 (2015),article,88
+,Bypassing Combinatorial Protections: Polynomial-Time Algorithms for Single-Peaked Electorates,"Felix Brandt,Markus Brill,Edith Hemaspaandra,Lane A. Hemaspaandra",https://doi.org/10.1613/jair.4647,,,Vol. 53 (2015),article,48
+,Satsisfiability and Systematicity,Matthew L Ginsberg,https://doi.org/10.1613/jair.4684,,,Vol. 53 (2015),article,30
+,Approximate Value Iteration with Temporally Extended Actions,"Timothy A. Mann,Shie Mannor,Doina Precup",https://doi.org/10.1613/jair.4676,,,Vol. 53 (2015),article,20
+,Regular Path Queries in Lightweight Description Logics: Complexity and Algorithms,"Meghyn Bienvenu,Magdalena Ortiz,Mantas Simkus",https://doi.org/10.1613/jair.4577,,,Vol. 53 (2015),article,49
+,Model Theory of XPath on Data Trees. Part I: Bisimulation and Characterization,"Diego Figueira,Santiago Figueira,Carlos Areces",https://doi.org/10.1613/jair.4658,,,Vol. 53 (2015),article,48
+,Using Machine Translation to Provide Target-Language Edit Hints in Computer Aided Translation Based on Translation Memories,"Miquel Esplà-Gomis,Felipe Sánchez-Martínez,Mikel L. Forcada",https://doi.org/10.1613/jair.4630,,,Vol. 53 (2015),article,89
+,Probabilistic Inference Techniques for Scalable Multiagent Decision Making,"Akshat Kumar,Shlomo Zilberstein,Marc Toussaint",https://doi.org/10.1613/jair.4649,,,Vol. 53 (2015),article,31
+,Clause Elimination for SAT and QSAT,"Marijn Heule,Matti Järvisalo,Florian Lonsing,Martina Seidl,Armin Biere",https://doi.org/10.1613/jair.4694,,,Vol. 53 (2015),article,10
+,The Ceteris Paribus Structure of Logics of Game Forms,"Davide Grossi,Emiliano Lorini,Francois Schwarzentruber",https://doi.org/10.1613/jair.4666,,,Vol. 53 (2015),article,17
+,Learning Relational Event Models from Video,"Krishna S. R. Dubba,Anthony G. Cohn,David C. Hogg,Mehul Bhatt,Frank Dylla",https://doi.org/10.1613/jair.4395,,,Vol. 53 (2015),article,39
+,Distributed Evaluation of Nonmonotonic Multi-context Systems,"Minh Dao-Tran,Thomas Eiter,Michael Fink,Thomas Krennwallner",https://doi.org/10.1613/jair.4574,,,Vol. 52 (2015),article,47
+,Coactive Learning,"Pannaga Shivaswamy,Thorsten Joachims",https://doi.org/10.1613/jair.4539,,,Vol. 53 (2015),article,50
+,Weighted Electoral Control,"Piotr Faliszewski,Edith Hemaspaandra,Lane A. Hemaspaandra",https://doi.org/10.1613/jair.4621,,,Vol. 52 (2015),article,52
+,A Case-Based Reasoning Framework to Choose Trust Models for Different E-Marketplace Environments,"Athirai A. Irissappane,Jie Zhang",https://doi.org/10.1613/jair.4595,,,Vol. 52 (2015),article,62
+,Modeling the Lifespan of Discourse Entities with Application to Coreference Resolution,"Marie-Catherine de Marneffe,Marta Recasens,Christopher Potts",https://doi.org/10.1613/jair.4565,,,Vol. 52 (2015),article,93
+,Computing Convex Coverage Sets for Faster Multi-objective Coordination,"Diederik Marijn Roijers,Shimon Whiteson,Frans A. Oliehoek",https://doi.org/10.1613/jair.4550,,,Vol. 52 (2015),article,84
+,Inferring Team Task Plans from Human Meetings: A Generative Modeling Approach with Logic-Based Prior,"Been Kim,Caleb M. Chacha,Julie A. Shah",https://doi.org/10.1613/jair.4496,,,Vol. 52 (2015),article,29
+,Scheduling Conservation Designs for Maximum Flexibility via Network Cascade Optimization,"Shan Xue,Alan Fern,Daniel Sheldon",https://doi.org/10.1613/jair.4679,,,Vol. 52 (2015),article,34
+,On the Subexponential-Time Complexity of CSP,"Ronald de Haan,Iyad Kanj,Stefan Szeider",https://doi.org/10.1613/jair.4540,,,Vol. 52 (2015),article,39
+,Revision by History,Paolo Liberatore,https://doi.org/10.1613/jair.4608,,,Vol. 52 (2015),article,49
+,Agnostic Pointwise-Competitive Selective Classification,"Yair Wiener,Ran El-Yaniv",https://doi.org/10.1613/jair.4439,,,Vol. 52 (2015),article,24
+,Deterministic Oversubscription Planning as Heuristic Search: Abstractions and Reformulations,"Carmel Domshlak,Vitaly Mirkis",https://doi.org/10.1613/jair.4443,,,Vol. 52 (2015),article,43
+,Coherent Predictive Inference under Exchangeability with Imprecise Probabilities,"Gert De Cooman,Jasper De Bock,Márcio Alves Diniz",https://doi.org/10.1613/jair.4490,,,Vol. 52 (2015),article,47
+,Exploiting Causality for Selective Belief Filtering in Dynamic Bayesian Networks,"Stefano V. Albrecht,Subramanian Ramamoorthy",https://doi.org/10.1613/jair.5044,,,Vol. 55 (2016),article,10
+,Semantic Visualization with Neighborhood Graph Regularization,"Tuan M. V. Le,Hady W. Lauw",https://doi.org/10.1613/jair.4983,,,Vol. 55 (2016),article,28
+,Learning Concept Graphs from Online Educational Data,"Hanxiao Liu,Wanli Ma,Yiming Yang,Jaime Carbonell",https://doi.org/10.1613/jair.5002,,,Vol. 55 (2016),article,32
+,A Distributed Representation-Based Framework for Cross-Lingual Transfer Parsing,"Jiang Guo,Wanxiang Che,David Yarowsky,Haifeng Wang,Ting Liu",https://doi.org/10.1613/jair.4955,,,Vol. 55 (2016),article,28
+,Semi-supervised Learning with Induced Word Senses for State of the Art Word Sense Disambiguation,"Osman Başkaya,David Jurgens",https://doi.org/10.1613/jair.4917,,,Vol. 55 (2016),article,43
+,Bilingual Distributed Word Representations from Document-Aligned Comparable Data,"Ivan Vulić,Marie-Francine Moens",https://doi.org/10.1613/jair.4986,,,Vol. 55 (2016),article,69
+,Parallel Model-Based Diagnosis on Multi-Core Computers,"Dietmar Jannach,Thomas Schmitz,Kostyantyn Shchekotykhin",https://doi.org/10.1613/jair.5001,,,Vol. 55 (2016),article,186
+,Searching for the M Best Solutions in Graphical Models,"Natalia Flerova,Radu Marinescu,Rina Dechter",https://doi.org/10.1613/jair.4985,,,Vol. 55 (2016),article,208
+,Knowledge Representation in Probabilistic Spatio-Temporal Knowledge Bases,"Francesco Parisi,John Grant",https://doi.org/10.1613/jair.4883,,,Vol. 55 (2016),article,222
+,An Exact Algorithm Based on MaxSAT Reasoning for the Maximum Weight Clique Problem,"Zhiwen Fang,Chu-Min Li,Ke Xu",https://doi.org/10.1613/jair.4953,,,Vol. 55 (2016),article,223
+,Combining Two and Three-Way Embedding Models for Link Prediction in Knowledge Bases,"Alberto Garcia-Duran,Antoine Bordes,Nicolas Usunier,Yves Grandvalet",https://doi.org/10.1613/jair.5013,,,Vol. 55 (2016),article,225
+,Quadratization and Roof Duality of Markov Logic Networks,"Roderick Sebastiaan de Nijs,Christian Landsiedel,Dirk Wollherr,Martin Buss",https://doi.org/10.1613/jair.5023,,,Vol. 55 (2016),article,235
+,Exact Algorithms for MRE Inference,"Xiaoyuan Zhu,Changhe Yuan",https://doi.org/10.1613/jair.4867,,,Vol. 55 (2016),article,248
+,Large-Scale Election Campaigns: Combinatorial Shift Bribery,"Robert Bredereck,Piotr Faliszewski,Rolf Niedermeier,Nimrod Talmon",https://doi.org/10.1613/jair.4927,,,Vol. 55 (2016),article,253
+,Module Extraction in Expressive Ontology Languages via Datalog Reasoning,"Ana Armas Romero,Mark Kaminski,Bernardo Cuenca Grau,Ian Horrocks",https://doi.org/10.1613/jair.4898,,,Vol. 55 (2016),article,261
+,Finding Strategyproof Social Choice Functions via SAT Solving,"Felix Brandt,Christian Geist",https://doi.org/10.1613/jair.4959,,,Vol. 55 (2016),article,265
+,Optimally Solving Dec-POMDPs as Continuous-State MDPs,"Jilles Steeve Dibangoye,Christopher Amato,Olivier Buffet,François Charpillet",https://doi.org/10.1613/jair.4623,,,Vol. 55 (2016),article,266
+,"Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures","Raffaella Bernardi,Ruket Cakici,Desmond Elliott,Aykut Erdem,Erkut Erdem,Nazli Ikizler-Cinbis,Frank Keller,Adrian Muscat,Barbara Plank",https://doi.org/10.1613/jair.4900,,,Vol. 55 (2016),article,272
+,Predicting Twitter User Demographics using Distant Supervision from Website Traffic Data,"Aron Culotta,Nirmal Kumar Ravi,Jennifer Cutler",https://doi.org/10.1613/jair.4935,,,Vol. 55 (2016),article,273
+,Bayesian Optimization in a Billion Dimensions via Random Embeddings,"Ziyu Wang,Frank Hutter,Masrour Zoghi,David Matheson,Nando de Feitas",https://doi.org/10.1613/jair.4806,,,Vol. 55 (2016),article,292
+,Adaptive Contract Design for Crowdsourcing Markets: Bandit Algorithms for Repeated Principal-Agent Problems,"Chien-Ju Ho,Aleksandrs Slivkins,Jennifer Wortman Vaughan",https://doi.org/10.1613/jair.4940,,,Vol. 55 (2016),article,302
+,News Across Languages - Cross-Lingual Document Similarity and Event Tracking,"Jan Rupnik,Andrej Muhic,Gregor Leban,Primoz Skraba,Blaz Fortuna,Marko Grobelnik",https://doi.org/10.1613/jair.4780,,,Vol. 55 (2016),article,310
+,Synthetic Treebanking for Cross-Lingual Dependency Parsing,"Jörg Tiedemann,Zeljko Agić",https://doi.org/10.1613/jair.4785,,,Vol. 55 (2016),article,318
+,Utilisation of Metadata Fields and Query Expansion in Cross-Lingual Search of User-Generated Internet Video,"Ahmad Khwileh,Debasis Ganguly,Gareth J. F. Jones",https://doi.org/10.1613/jair.4775,,,Vol. 55 (2016),article,326
+,Effectiveness of Automatic Translations for Cross-Lingual Ontology Mapping,"Mamoun Abu Helou,Matteo Palmonari,Mustafa Jarrar",https://doi.org/10.1613/jair.4789,,,Vol. 55 (2016),article,334
+,Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification.,"Alejandro Moreo Fernández,Andrea Esuli,Fabrizio Sebastiani",https://doi.org/10.1613/jair.4762,,,Vol. 55 (2016),article,342
+,How Translation Alters Sentiment,"Saif M. Mohammad,Mohammad Salameh,Svetlana Kiritchenko",https://doi.org/10.1613/jair.4787,,,Vol. 55 (2016),article,349
+,Integrating Rules and Dictionaries from Shallow-Transfer Machine Translation into Phrase-Based Statistical Machine Translation,"Víctor M. Sánchez-Cartagena,Juan Antonio Pérez-Ortiz,Felipe Sánchez-Martínez",https://doi.org/10.1613/jair.4761,,,Vol. 55 (2016),article,357
+,Cross-Lingual Bridges with Models of Lexical Borrowing,"Yulia Tsvetkov,Chris Dyer",https://doi.org/10.1613/jair.4786,,,Vol. 55 (2016),article,365
+,Introduction to the Special Issue on Cross-Language Algorithms and Applications,"Marta R. Costa-jussà,Srinivas Bangalore,Patrik Lambert,Lluís Màrquez,Elena Montiel-Ponsoda",https://doi.org/10.1613/jair.5022,,,Vol. 55 (2016),article,373
+,Time-Sensitive Bayesian Information Aggregation for Crowdsourcing Systems,"Matteo Venanzi,John Guiver,Pushmeet Kohli,Nicholas R. Jennings",https://doi.org/10.1613/jair.5175,,,Vol. 56 (2016),article,381
+,Time-Bounded Best-First Search for Reversible and Non-reversible Search Graphs,"Carlos Hernández,Jorge A. Baier,Roberto Asín",https://doi.org/10.1613/jair.5073,,,Vol. 56 (2016),article,88
+,Computing Repairs of Inconsistent DL-Programs over EL Ontologies,"Thomas Eiter,Michael Fink,Daria Stepanova",https://doi.org/10.1613/jair.5047,,,Vol. 56 (2016),article,48
+,Efficient Mechanism Design for Online Scheduling,"Xujin Chen,Xiaodong Hu,Tie-Yan Liu,Weidong Ma,Tao Qin,Pingzhong Tang,Changjun Wang,Bo Zheng",https://doi.org/10.1613/jair.5100,,,Vol. 56 (2016),article,30
+,On the Satisfiability Problem for SPARQL Patterns,"Xiaowang Zhang,Jan Van den Bussche,François Picalausa",https://doi.org/10.1613/jair.5028,,,Vol. 56 (2016),article,20
+,DL-Lite Contraction and Revision,"Zhiqiang Zhuang,Zhe Wang,Kewen Wang,Guilin Qi",https://doi.org/10.1613/jair.5050,,,Vol. 56 (2016),article,49
+,Generating Models of a Matched Formula With a Polynomial Delay,"Petr Savický,Petr Kučera",https://doi.org/10.1613/jair.4989,,,Vol. 56 (2016),article,48
+,Combining the Delete Relaxation with Critical-Path Heuristics: A Direct Characterization,"Maximilian Fickert,Joerg Hoffmann,Marcel Steinmetz",https://doi.org/10.1613/jair.5057,,,Vol. 56 (2016),article,89
+,Two Aspects of Relevance in Structured Argumentation: Minimality and Paraconsistency,"Diana Grooters,Henry Prakken",https://doi.org/10.1613/jair.5058,,,Vol. 56 (2016),article,31
+,Association Discovery and Diagnosis of Alzheimers Disease with Bayesian Multiview Learning,"Zenglin Xu,Shandian Zhe,Yuan Qi,Peng Yu",https://doi.org/10.1613/jair.4956,,,Vol. 56 (2016),article,10
+,Budgeted Optimization with Constrained Experiments,"Javad Azimi,Xiaoli Fern,Alan Fern",https://doi.org/10.1613/jair.4896,,,Vol. 56 (2016),article,17
+,Optimal Any-Angle Pathfinding In Practice,"Daniel Damir Harabor,Alban Grastien,Dindar Öz,Vural Aksakalli",https://doi.org/10.1613/jair.5007,,,Vol. 56 (2016),article,39
+,Global Continuous Optimization with Error Bound and Fast Convergence,"Kenji Kawaguchi,Yu Maruyama,Xiaoyu Zheng",https://doi.org/10.1613/jair.4742,,,Vol. 56 (2016),article,47
+,Query and Predicate Emptiness in Ontology-Based Data Access,"Franz Baader,Meghyn Bienvenu,Carsten Lutz,Frank Wolter",https://doi.org/10.1613/jair.4866,,,Vol. 56 (2016),article,50
+,Automatic Wordnet Development for Low-Resource Languages using Cross-Lingual WSD,"Nasrin Taghizadeh,Hesham Faili",https://doi.org/10.1613/jair.4968,,,Vol. 56 (2016),article,52
+,A Disaster Response System based on Human-Agent Collectives,"Sarvapali D. Ramchurn,Trung Dong Huynh,Feng Wu,Yukki Ikuno,Jack Flann,Luc Moreau,Joel E. Fischer,Wenchao Jiang,Tom Rodden,Edwin Simpson,Steven Reece,Stephen Roberts,Nicholas R. Jennings",https://doi.org/10.1613/jair.5098,,,Vol. 57 (2016),article,62
+,P-SyncBB: A Privacy Preserving Branch and Bound DCOP Algorithm,"Tal Grinshpoun,Tamir Tassa",https://doi.org/10.1613/jair.5322,,,Vol. 57 (2016),article,93
+,Convergence of Iterative Scoring Rules,"Omer Lev,Jeffrey S. Rosenschein",https://doi.org/10.1613/jair.5187,,,Vol. 57 (2016),article,84
+,ProMoca: Probabilistic Modeling and Analysis of Agents in Commitment Protocols,"Akın Günay,Yang Liu,Jie Zhang",https://doi.org/10.1613/jair.5135,,,Vol. 57 (2016),article,29
+,A Survey of Computational Treatments of Biomolecules by   Robotics-Inspired Methods Modeling Equilibrium Structure and   Dynamic,"Amarda Shehu,Erion Plaku",https://doi.org/10.1613/jair.5040,,,Vol. 57 (2016),article,34
+,ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets,"Guansong Pang,Kai Ming Ting,David Albrecht,Huidong Jin",https://doi.org/10.1613/jair.5228,,,Vol. 57 (2016),article,39
+,A Primer on Neural Network Models for Natural Language Processing,Yoav Goldberg,https://doi.org/10.1613/jair.4992,,,Vol. 57 (2016),article,49
+,Embarrassingly Parallel Search in Constraint Programming,"Arnaud Malapert,Jean-Charles Régin,Mohamed Rezgui",https://doi.org/10.1613/jair.5247,,,Vol. 57 (2016),article,46
+,Scrubbing During Learning In Real-time Heuristic Search,"Nathan R. Sturtevant,Vadim Bulitko",https://doi.org/10.1613/jair.4908,,,Vol. 57 (2016),article,38
+,Effective Heuristics for Suboptimal Best-First Search,"Christopher Wilt,Wheeler Ruml",https://doi.org/10.1613/jair.5036,,,Vol. 57 (2016),article,38
+,Multi-objective Reinforcement Learning through Continuous Pareto Manifold Approximation,"Simone Parisi,Matteo Pirotta,Marcello Restelli",https://doi.org/10.1613/jair.4961,,,Vol. 57 (2016),article,88
+,Lightweight Random Indexing for Polylingual Text Classification,"Alejandro Moreo Fernández,Andrea Esuli,Fabrizio Sebastiani",https://doi.org/10.1613/jair.5194,,,Vol. 57 (2016),article,48
+,Optimal Partial-Order Plan Relaxation via MaxSAT,"Christian Muise,J. Christopher Beck,Sheila A. McIlraith",https://doi.org/10.1613/jair.5128,,,Vol. 57 (2016),article,30
+,PDT Logic: A Probabilistic Doxastic Temporal Logic for Reasoning about Beliefs in Multi-agent Systems,"Karsten Martiny,Ralf Möller",https://doi.org/10.1613/jair.5182,,,Vol. 57 (2016),article,20
+,Goal Probability Analysis in Probabilistic Planning: Exploring and Enhancing the State of the Art,"Marcel Steinmetz,Jörg Hoffmann,Olivier Buffet",https://doi.org/10.1613/jair.5153,,,Vol. 57 (2016),article,49
+,Negotiable Votes,"Umberto Grandi,Davide Grossi,Paolo Turrini",https://doi.org/10.1613/jair.1.11446,,,Vol. 64 (2019),article,48
+,Learning Continuous Time Bayesian Networks in Non-stationary Domains,"Simone Villa,Fabio Stella",https://doi.org/10.1613/jair.5126,,,Vol. 57 (2016),article,89
+,Pitfalls and Best Practices in Algorithm Configuration,"Katharina Eggensperger,Marius Lindauer,Frank Hutter",https://doi.org/10.1613/jair.1.11420,,,Vol. 64 (2019),article,83
+,Modeling and Planning with Macro-Actions in Decentralized POMDPs,"Christopher Amato,George Konidaris,Leslie P. Kaelbling,Jonathan P. How",https://doi.org/10.1613/jair.1.11418,,,Vol. 64 (2019),article,49
+,Polynomial and Exponential Bounded Logic Programs with Function Symbols: Some New Decidable Classes,"Vernon Asuncion,Yan Zhang,Heng Zhang,Ruixuan Li",https://doi.org/10.1613/jair.1.11408,,,Vol. 64 (2019),article,59
+,Computing and Explaining Query Answers over Inconsistent DL-Lite Knowledge Bases,"Meghyn Bienvenu,Camille Bourgaux,François Goasdoué",https://doi.org/10.1613/jair.1.11395,,,Vol. 64 (2019),article,20
+,Distributed Gibbs: A Linear-Space Sampling-Based DCOP Algorithm,"Duc Thien Nguyen,William Yeoh,Hoong Chuin Lau,Roie Zivan",https://doi.org/10.1613/jair.1.11400,,,Vol. 64 (2019),article,110
+,AI Generality and Spearman’s Law of Diminishing Returns,Jose Hernandez-Orallo,https://doi.org/10.1613/jair.1.11388,,,Vol. 64 (2019),article,144
+,A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems,"Felipe Leno Da Silva,Anna Helena Reali Costa",https://doi.org/10.1613/jair.1.11396,,,Vol. 64 (2019),article,150
+,Dynamic Controllability of Controllable Conditional Temporal Problems with Uncertainty,"Jing Cui,Patrik Haslum",https://doi.org/10.1613/jair.1.11375,,,Vol. 64 (2019),article,153
+,Implicitly Coordinated Multi-Agent Path Finding under Destination Uncertainty: Success Guarantees and Computational Complexity,"Bernhard Nebel,Thomas Bolander,Thorsten Engesser,Robert Mattmüller",https://doi.org/10.1613/jair.1.11376,,,Vol. 64 (2019),article,161
+,Revisiting CFR+ and Alternating Updates,"Neil Burch,Matej Moravcik,Martin Schmid",https://doi.org/10.1613/jair.1.11370,,,Vol. 64 (2019),article,165
+,A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty,"Wen Song,Donghun Kang,Jie Zhang,Zhiguang Cao,Hui Xi",https://doi.org/10.1613/jair.1.11369,,,Vol. 64 (2019),article,168
+,Level-0 Models for Predicting Human Behavior in Games,"James R. Wright,Kevin Leyton-Brown",https://doi.org/10.1613/jair.1.11361,,,Vol. 64 (2019),article,185
+,Iterative Local Voting for Collective Decision-making in Continuous Spaces,"Nikhil Garg,Vijay Kamble,Ashish Goel,David Marn,Kamesh Munagala",https://doi.org/10.1613/jair.1.11358,,,Vol. 64 (2019),article,186
+,Cost-Based Goal Recognition in Navigational Domains,"Peta Masters,Sebastian Sardina",https://doi.org/10.1613/jair.1.11343,,,Vol. 64 (2019),article,208
+,Multi-scale Hierarchical Residual Network for Dense Captioning,"Yan Tian,Xun Wang,Jiachen Wu,Ruili Wang,Bailin Yang",https://doi.org/10.1613/jair.1.11338,,,Vol. 64 (2019),article,222
+,Viewpoint: Human-in-the-loop Artificial Intelligence,Fabio Massimo Zanzotto,https://doi.org/10.1613/jair.1.11345,,,Vol. 64 (2019),article,223
+,Logical Foundations of Linked Data Anonymisation,"Bernardo Cuenca Grau,Egor V. Kostylev",https://doi.org/10.1613/jair.1.11355,,,Vol. 64 (2019),article,225
+,A Generalisation of AGM Contraction and Revision to Fragments of First-Order Logic,"Zhiqiang Zhuang,Zhe Wang,Kewen Wang,James Delgrande",https://doi.org/10.1613/jair.1.11337,,,Vol. 64 (2019),article,235
+,New Approximations for Coalitional Manipulation in Scoring Rules,"Orgad Keller,Avinatan Hassidim,Noam Hazon",https://doi.org/10.1613/jair.1.11335,,,Vol. 64 (2019),article,248
+,Rank Pruning for Dominance Queries in CP-Nets,"Kathryn Laing,Peter Adam Thwaites,John Paul Gosling",https://doi.org/10.1613/jair.1.11323,,,Vol. 64 (2019),article,253
+,On Inductive Abilities of Latent Factor Models for Relational Learning,"Théo Trouillon,Eric Gaussier,Christopher R. Dance,Guillaume Bouchard",https://doi.org/10.1613/jair.1.11305,,,Vol. 64 (2019),article,261
+,Fair Allocation of Indivisible Goods to Asymmetric Agents,"Alireza Farhadi,Mohammad Ghodsi,Mohammad Taghi Hajiaghayi,Sébastien Lahaie,David Pennock,Masoud Seddighin,Saeed Seddighin,Hadi Yami",https://doi.org/10.1613/jair.1.11291,,,Vol. 64 (2019),article,265
+,From Feature To Paradigm: Deep Learning In Machine Translation,Marta R. Costa-jussà,https://doi.org/10.1613/jair.1.11198,,,Vol. 61 (2018),article,266
+,Visualisation and 'Diagnostic Classifiers' Reveal How Recurrent and Recursive Neural Networks Process Hierarchical Structure,"Dieuwke Hupkes,Sara Veldhoen,Willem Zuidema",https://doi.org/10.1613/jair.1.11196,,,Vol. 61 (2018),article,272
+,Pre-Wiring and Pre-Training: What Does a Neural Network Need to Learn Truly General Identity Rules?,"Raquel G. Alhama,Willem Zuidema",https://doi.org/10.1613/jair.1.11197,,,Vol. 61 (2018),article,273
+,"SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary","Alberto Fernandez,Salvador Garcia,Francisco Herrera,Nitesh V. Chawla",https://doi.org/10.1613/jair.1.11192,,,Vol. 61 (2018),article,292
+,Belief Update within Propositional Fragments,"Nadia Creignou,Raïda Ktari,Odile Papini",https://doi.org/10.1613/jair.5541,,,Vol. 61 (2018),article,302
+,Symbol Grounding Association in Multimodal Sequences with Missing Elements,"Federico Raue,Andreas Dengel,Thomas M. Breuel,Marcus Liwicki",https://doi.org/10.1613/jair.5736,,,Vol. 61 (2018),article,310
+,Corpus-Level Fine-Grained Entity Typing,"Yadollah Yaghoobzadeh,Heike Adel,Hinrich Schuetze",https://doi.org/10.1613/jair.5601,,,Vol. 61 (2018),article,318
+,"When Subgraph Isomorphism is Really Hard, and Why This Matters for Graph Databases","Ciaran McCreesh,Patrick Prosser,Christine Solnon,James Trimble",https://doi.org/10.1613/jair.5768,,,Vol. 61 (2018),article,326
+,Rademacher Complexity Bounds for a Penalized Multi-class Semi-supervised Algorithm,"Yury Maximov,Massih-Reza Amini,Zaid Harchaoui",https://doi.org/10.1613/jair.5638,,,Vol. 61 (2018),article,334
+,Trust as a Precursor to Belief Revision,"Richard Booth,Aaron Hunter",https://doi.org/10.1613/jair.5521,,,Vol. 61 (2018),article,342
+,Distributed Constraint Optimization Problems and Applications: A Survey,"Ferdinando Fioretto,Enrico Pontelli,William Yeoh",https://doi.org/10.1613/jair.5565,,,Vol. 61 (2018),article,349
+,Fully Observable Non-deterministic Planning as Assumption-Based Reactive Synthesis,"Nicolás D'Ippolito,Natalia Rodrı́guez,Sebastian Sardina",https://doi.org/10.1613/jair.5562,,,Vol. 61 (2018),article,357
+,On the Behavior of Convolutional Nets for Feature Extraction,"Dario Garcia-Gasulla,Ferran Parés,Armand Vilalta,Jonatan Moreno,Eduard Ayguadé,Jesús Labarta,Ulises Cortés,Toyotaro Suzumura",https://doi.org/10.1613/jair.5756,,,Vol. 61 (2018),article,365
+,Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents,"Marlos C. Machado,Marc G. Bellemare,Erik Talvitie,Joel Veness,Matthew Hausknecht,Michael Bowling",https://doi.org/10.1613/jair.5699,,,Vol. 61 (2018),article,373
+,Fact-Alternating Mutex Groups for Classical Planning,"Daniel Fišer,Antonín Komenda",https://doi.org/10.1613/jair.5321,,,Vol. 61 (2018),article,381
+,Coordinating Measurements in Uncertain Participatory Sensing Settings,"Alexandros Zenonos,Sebastian Stein,Nicholas R. Jennings",https://doi.org/10.1613/jair.5484,,,Vol. 61 (2018),article,
+,KABouM: Knowledge-Level Action and Bounding Geometry Motion Planner,"Andre Gaschler,Ronald P. A. Petrick,Oussama Khatib,Alois Knoll",https://doi.org/10.1613/jair.5560,,,Vol. 61 (2018),article,
+,Actively Estimating Crowd Annotation Consensus,"Yunus Emre Kara,Gaye Genc,Oya Aran,Lale Akarun",https://doi.org/10.1613/jair.5727,,,Vol. 61 (2018),article,
+,Linear Satisfiability Preserving Assignments,"Kei Kimura,Kazuhisa Makino",https://doi.org/10.1613/jair.5658,,,Vol. 61 (2018),article,
+,Cycles and Intractability in a Large Class of Aggregation Rules,William S. Zwicker,https://doi.org/10.1613/jair.5657,,,Vol. 61 (2018),article,
+,From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning,"George Konidaris,Leslie Pack Kaelbling,Tomas Lozano-Perez",https://doi.org/10.1613/jair.5575,,,Vol. 61 (2018),article,
+,Bisimulations on Data Graphs,"Sergio Abriola,Pablo Barceló,Diego Figueira,Santiago Figueira",https://doi.org/10.1613/jair.5637,,,Vol. 61 (2018),article,
+,"Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation","Albert Gatt,Emiel Krahmer",https://doi.org/10.1613/jair.5477,,,Vol. 61 (2018),article,
+,Learning Explanatory Rules from Noisy Data,"Richard Evans,Edward Grefenstette",https://doi.org/10.1613/jair.5714,,,Vol. 61 (2018),article,
+,Decision-Theoretic Planning Under Anonymity in Agent Populations,"Ekhlas Sonu,Yingke Chen,Prashant Doshi",https://doi.org/10.1613/jair.5449,,,Vol. 59 (2017),article,
+,Complexity of n-Queens Completion,"Ian P. Gent,Christopher Jefferson,Peter Nightingale",https://doi.org/10.1613/jair.5512,,,Vol. 59 (2017),article,
+,Uniform Random Generation and Dominance Testing for CP-Nets,"Thomas E. Allen,Judy Goldsmith,Hayden Elizabeth Justice,Nicholas Mattei,Kayla Raines",https://doi.org/10.1613/jair.5455,,,Vol. 59 (2017),article,
+,Logical Formalizations of Commonsense Reasoning: A Survey,Ernest Davis,https://doi.org/10.1613/jair.5339,,,Vol. 59 (2017),article,
+,Welfare Effects of Market Making in Continuous Double Auctions,"Elaine Wah,Mason Wright,Michael P. Wellman",https://doi.org/10.1613/jair.5360,,,Vol. 59 (2017),article,
+,Probabilistic Reasoning with Abstract Argumentation Frameworks,"Anthony Hunter,Matthias Thimm",https://doi.org/10.1613/jair.5393,,,Vol. 59 (2017),article,
+,The Length of Shortest Vertex Paths in Binary Occupancy Grids Compared to Shortest r-Constrained Ones,Patrick Chisan Hew,https://doi.org/10.1613/jair.5442,,,Vol. 59 (2017),article,
+,Perturbation Training for Human-Robot Teams,"Ramya Ramakrishnan,Chongjie Zhang,Julie Shah",https://doi.org/10.1613/jair.5390,,,Vol. 59 (2017),article,
+,"Finding A Small Vertex Cover in Massive Sparse Graphs: Construct, Local Search, and Preprocess","Shaowei Cai,Jinkun Lin,Chuan Luo",https://doi.org/10.1613/jair.5443,,,Vol. 59 (2017),article,
+,Game-Theoretic Question Selection for Tests,"Yuqian Li,Vincent Conitzer",https://doi.org/10.1613/jair.5413,,,Vol. 59 (2017),article,
+,AND/OR Branch-and-Bound on a Computational Grid,"Lars Otten,Rina Dechter",https://doi.org/10.1613/jair.5456,,,Vol. 59 (2017),article,
+,Privacy Preserving Implementation of the Max-Sum Algorithm and its Variants,"Tamir Tassa,Tal Grinshpoun,Roie Zivan",https://doi.org/10.1613/jair.5504,,,Vol. 59 (2017),article,
+,Adopting the Cascade Model in Ad Auctions: Efficiency Bounds and Truthful Algorithmic Mechanisms,"Gabriele Farina,Nicola Gatti",https://doi.org/10.1613/jair.5438,,,Vol. 59 (2017),article,
+,Market Interfaces for Electric Vehicle Charging,"Sebastian Stein,Enrico H. Gerding,Adrian Nedea,Avi Rosenfeld,Nicholas R. Jennings",https://doi.org/10.1613/jair.5387,,,Vol. 59 (2017),article,
+,Sampling Based Approaches for Minimizing Regret in Uncertain Markov Decision Processes (MDPs),"Asrar Ahmed,Pradeep Varakantham,Meghna Lowalekar,Yossiri Adulyasak,Patrick Jaillet",https://doi.org/10.1613/jair.5242,,,Vol. 59 (2017),article,
+,"Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty","Robert Bredereck,Jiehua Chen,Rolf Niedermeier,Toby Walsh",https://doi.org/10.1613/jair.5407,,,Vol. 59 (2017),article,
+,Learning Discrete Bayesian Networks from Continuous Data,"Yi-Chun Chen,Tim A. Wheeler,Mykel J. Kochenderfer",https://doi.org/10.1613/jair.5371,,,Vol. 59 (2017),article,
+,The Price of Anarchy in Auctions,"Tim Roughgarden,Vasilis Syrgkanis,Eva Tardos",https://doi.org/10.1613/jair.5272,,,Vol. 59 (2017),article,
+,Querying Log Data with Metric Temporal Logic,"Sebastian Brandt,Elem Güzel Kalaycı,Vladislav Ryzhikov,Guohui Xiao,Michael Zakharyaschev",https://doi.org/10.1613/jair.1.11229,,,Vol. 62 (2018),article,
+,A Review of Inference Algorithms for Hybrid Bayesian Networks,"Antonio Salmerón,Rafael Rumí,Helge Langseth,Thomas D. Nielsen,Anders L. Madsen",https://doi.org/10.1613/jair.1.11228,,,Vol. 62 (2018),article,
+,Indirect Causes in Dynamic Bayesian Networks Revisited,"Alexander Motzek,Ralf Möller",https://doi.org/10.1613/jair.5361,,,Vol. 59 (2017),article,
+,Viewpoint: When Will AI Exceed Human Performance? Evidence from AI Experts,"Katja Grace,John Salvatier,Allan Dafoe,Baobao Zhang,Owain Evans",https://doi.org/10.1613/jair.1.11222,,,Vol. 62 (2018),article,
+,Computing Hierarchical Finite State Controllers With Classical Planning,"Javier Segovia-Aguas,Sergio Jiménez,Anders Jonsson",https://doi.org/10.1613/jair.1.11227,,,Vol. 62 (2018),article,
+,Exploiting Partial Assignments for Efficient Evaluation of Answer Set Programs with External Source Access,"Thomas Eiter,Tobias Kaminski,Christoph Redl,Antonius Weinzierl",https://doi.org/10.1613/jair.1.11221,,,Vol. 62 (2018),article,
+,Column Generation Algorithms for Constrained POMDPs,"Erwin Walraven,Matthijs T. J. Spaan",https://doi.org/10.1613/jair.1.11216,,,Vol. 62 (2018),article,
+,ScottyActivity: Mixed Discrete-Continuous Planning with Convex Optimization,"Enrique Fernandez-Gonzalez,Brian Williams,Erez Karpas",https://doi.org/10.1613/jair.1.11219,,,Vol. 62 (2018),article,
+,Counterexample-Guided Cartesian Abstraction Refinement for Classical Planning,"Jendrik Seipp,Malte Helmert",https://doi.org/10.1613/jair.1.11217,,,Vol. 62 (2018),article,
+,The Power of Verification for Greedy Mechanism Design,"Dimitris Fotakis,Piotr Krysta,Carmine Ventre",https://doi.org/10.1613/jair.1.11215,,,Vol. 62 (2018),article,
+,Incentive-Compatible Mechanisms for Norm Monitoring in Open Multi-Agent Systems,"Natasha Alechina,Joseph Y. Halpern,Ian A. Kash,Brian Logan",https://doi.org/10.1613/jair.1.11214,,,Vol. 62 (2018),article,
+,"Nash Stable Outcomes in Fractional Hedonic Games: Existence, Efficiency and Computation","Vittorio Bilò,Angelo Fanelli,Michele Flammini,Gianpiero Monaco,Luca Moscardelli",https://doi.org/10.1613/jair.1.11211,,,Vol. 62 (2018),article,
+,Extending Classical Planning with State Constraints: Heuristics and Search for Optimal Planning,"Patrik Haslum,Franc Ivankovic,Miquel Ramirez,Dan Gordon,Sylvie Thiebaux,Vikas Shivashankar,Dana S. Nau",https://doi.org/10.1613/jair.1.11213,,,Vol. 62 (2018),article,
+,"The Mathematics of Changing One’s Mind, via Jeffrey’s or via Pearl’s Update Rule",Bart Jacobs,https://doi.org/10.1613/jair.1.11349,,,Vol. 65 (2019),article,
+,Automatic Language Identification in Texts: A Survey,"Tommi Jauhiainen,Marco Lui,Marcos Zampieri,Timothy Baldwin,Krister Lindén",https://doi.org/10.1613/jair.1.11675,,,Vol. 65 (2019),article,
+,Solving Multi-agent Path Finding on Strongly Biconnected Digraphs,"Adi Botea,Davide Bonusi,Pavel Surynek",https://doi.org/10.1613/jair.1.11212,,,Vol. 62 (2018),article,
+,Viewpoint: Artificial Intelligence Government (Gov. 3.0): The UAE Leading Model,Mohanad Halaweh,https://doi.org/10.1613/jair.1.11210,,,Vol. 62 (2018),article,
+,A COP Model For Graph-Constrained Coalition Formation,"Filippo Bistaffa,Alessandro Farinelli",https://doi.org/10.1613/jair.1.11205,,,Vol. 62 (2018),article,
+,Solving Large Problems with Heuristic Search: General-Purpose Parallel External-Memory Search,"Matthew Hatem,Ethan Burns,Wheeler Ruml",https://doi.org/10.1613/jair.1.11209,,,Vol. 62 (2018),article,
+,Resource-bounded Norm Monitoring In Multi-agent Systems,Natalia Criado,https://doi.org/10.1613/jair.1.11206,,,Vol. 62 (2018),article,
+,MCTS-Minimax Hybrids with State Evaluations,"Hendrik Baier,Mark H. M. Winands",https://doi.org/10.1613/jair.1.11208,,,Vol. 62 (2018),article,
+,Verification of Distributed Epistemic Gossip Protocols,"Krzysztof R. Apt,Dominik Wojtczak",https://doi.org/10.1613/jair.1.11204,,,Vol. 62 (2018),article,
+,Lifted Relational Neural Networks: Efficient Learning of Latent Relational Structures,"Gustav Sourek,Vojtech Aschenbrenner,Filip Zelezny,Steven Schockaert,Ondrej Kuzelka",https://doi.org/10.1613/jair.1.11203,,,Vol. 62 (2018),article,
+,Axiomatic Characterization of Game-Theoretic Centrality,"Oskar Skibski,Tomasz P. Michalak,Talal Rahwan",https://doi.org/10.1613/jair.1.11202,,,Vol. 62 (2018),article,
+,Optimal Torpedo Scheduling,"Adrian Goldwaser,Andreas Schutt",https://doi.org/10.1613/jair.1.11268,,,Vol. 63 (2018),article,
+,Bounds on the Cost of Stabilizing a Cooperative Game,"Yoram Bachrach,Edith Elkind,Enrico Malizia,Reshef Meir,Dmitrii Pasechnik,Jeffrey S. Rosenschein,Jörg Rothe,Michael Zuckerman",https://doi.org/10.1613/jair.1.11270,,,Vol. 63 (2018),article,
+,Transition-Based Neural Word Segmentation Using Word-Level Features,"Meishan Zhang,Yue Zhang,Guohong Fu",https://doi.org/10.1613/jair.1.11266,,,Vol. 63 (2018),article,
+,An Exhaustive DPLL Algorithm for Model Counting,"Umut Oztok,Adnan Darwiche",https://doi.org/10.1613/jair.1.11201,,,Vol. 62 (2018),article,
+,AND/OR Search for Marginal MAP,"Radu Marinescu,Junkyu Lee,Rina Dechter,Alexander Ihler",https://doi.org/10.1613/jair.1.11265,,,Vol. 63 (2018),article,
+,Grounding Language for Transfer in Deep Reinforcement Learning,"Karthik Narasimhan,Regina Barzilay,Tommi Jaakkola",https://doi.org/10.1613/jair.1.11263,,,Vol. 63 (2018),article,
+,State-Space Abstractions for Probabilistic Inference: A Systematic Review,"Stefan Lüdtke,Max Schröder,Frank Krüger,Sebastian Bader,Thomas Kirste",https://doi.org/10.1613/jair.1.11261,,,Vol. 63 (2018),article,
+,From Word To Sense Embeddings: A Survey on Vector Representations of Meaning,"Jose Camacho-Collados,Mohammad Taher Pilehvar",https://doi.org/10.1613/jair.1.11259,,,Vol. 63 (2018),article,
+,Data-driven Conceptual Spaces: Creating Semantic Representations For Linguistic Descriptions Of Numerical Data,"Hadi Banaee,Erik Schaffernicht,Amy Loutfi",https://doi.org/10.1613/jair.1.11258,,,Vol. 63 (2018),article,
+,Autonomous Target Search with Multiple Coordinated UAVs,"Chiara Piacentini,Sara Bernardini,J. Christopher Beck",https://doi.org/10.1613/jair.1.11635,,,Vol. 65 (2019),article,
+,A Survey of Cross-lingual Word Embedding Models,"Sebastian Ruder,Ivan Vulić,Anders Søgaard",https://doi.org/10.1613/jair.1.11640,,,Vol. 65 (2019),article,
+,Computing Multi-Modal Journey Plans under Uncertainty,"Adi Botea,Akihiro Kishimoto,Evdokia Nikolova,Stefano Braghin,Michele Berlingerio,Elizabeth Daly",https://doi.org/10.1613/jair.1.11422,,,Vol. 65 (2019),article,
+,Unifying System Health Management and Automated Decision Making,"Edward Balaban,Stephen B. Johnson,Mykel J. Kochenderfer",https://doi.org/10.1613/jair.1.11366,,,Vol. 65 (2019),article,
+,OptStream: Releasing Time Series Privately,"Ferdinando Fioretto,Pascal Van Hentenryck",https://doi.org/10.1613/jair.1.11583,,,Vol. 65 (2019),article,
+,IKBT: Solving Symbolic Inverse Kinematics with Behavior Tree,"Dianmu Zhang,Blake Hannaford",https://doi.org/10.1613/jair.1.11592,,,Vol. 65 (2019),article,
+,Weighted Matching Markets with Budget Constraints,"Anisse Ismaili,Naoto Hamada,Yuzhe Zhang,Takamasa Suzuki,Makoto Yokoo",https://doi.org/10.1613/jair.1.11582,,,Vol. 65 (2019),article,
+,Strong Stubborn Set Pruning for Star-Topology Decoupled State Space Search,"Daniel Gnad,Jörg Hoffmann,Martin Wehrle",https://doi.org/10.1613/jair.1.11576,,,Vol. 65 (2019),article,
+,Point-Based Value Iteration for Finite-Horizon POMDPs,"Erwin Walraven,Matthijs T. J. Spaan",https://doi.org/10.1613/jair.1.11324,,,Vol. 65 (2019),article,
+,Goal Recognition Design in Deterministic Environments,"Sarah Keren,Avigdor Gal,Erez Karpas",https://doi.org/10.1613/jair.1.11551,,,Vol. 65 (2019),article,
+,Dependency Learning for QBF,"Tomáš Peitl,Friedrich Slivovsky,Stefan Szeider",https://doi.org/10.1613/jair.1.11529,,,Vol. 65 (2019),article,
+,Probabilistic Planning with Reduced Models,"Luis Pineda,Shlomo Zilberstein",https://doi.org/10.1613/jair.1.11569,,,Vol. 65 (2019),article,
+,REBA: A Refinement-Based Architecture for Knowledge Representation and Reasoning in Robotics,"Mohan Sridharan,Michael Gelfond,Shiqi Zhang,Jeremy Wyatt",https://doi.org/10.1613/jair.1.11524,,,Vol. 65 (2019),article,
+,A Coupled Operational Semantics for Goals and Commitments,"Pankaj R. Telang,Munindar P. Singh,Neil Yorke-Smith",https://doi.org/10.1613/jair.1.11494,,,Vol. 65 (2019),article,
+,On Overfitting and Asymptotic Bias in Batch Reinforcement Learning with Partial Observability,"Vincent Francois-Lavet,Guillaume Rabusseau,Joelle Pineau,Damien Ernst,Raphael Fonteneau",https://doi.org/10.1613/jair.1.11478,,,Vol. 65 (2019),article,
+,Encoding Domain Transitions for Constraint-Based Planning,"Nina Ghanbari Ghooshchi,Majid Namazi,M.A.Hakim Newton,Abdul Sattar",https://doi.org/10.1613/jair.5378,,,Vol. 58 (2017),article,
+,Logics of Common Ground,"Tim Miller,Jens Pfau,Liz Sonenberg,Yoshihisa Kashima",https://doi.org/10.1613/jair.5381,,,Vol. 58 (2017),article,
+,Improving the Efficiency of Dynamic Programming on Tree Decompositions via Machine Learning,"Michael Abseher,Nysret Musliu,Stefan Woltran",https://doi.org/10.1613/jair.5312,,,Vol. 58 (2017),article,
+,Randomized Social Choice Functions Under Metric Preferences,"Elliot Anshelevich,John Postl",https://doi.org/10.1613/jair.5340,,,Vol. 58 (2017),article,
+,Some Properties of Batch Value of Information  in the Selection Problem,"Shahaf S. Shperberg,Solomon Eyal Shimony",https://doi.org/10.1613/jair.5288,,,Vol. 58 (2017),article,
+,Managing Different Sources of Uncertainty in a BDI Framework in a Principled Way with Tractable Fragments,"Kim Bauters,Kevin McAreavey,Weiru Liu,Jun Hong,Lluís Godo,Carles Sierra",https://doi.org/10.1613/jair.5287,,,Vol. 58 (2017),article,
+,Combinatorial Multi-armed Bandits for Real-Time Strategy Games,Santiago Ontañón,https://doi.org/10.1613/jair.5398,,,Vol. 58 (2017),article,
+,A Neural Probabilistic Structured-Prediction Method for Transition-Based Natural Language Processing,"Hao Zhou,Yue Zhang,Chuan Cheng,Shujian Huang,Xinyu Dai,Jiajun Chen",https://doi.org/10.1613/jair.5259,,,Vol. 58 (2017),article,
+,A Probabilistic Formalization of the Appraisal for  the OCC Event-Based Emotions,"João Gluz,Patricia A. Jaques",https://doi.org/10.1613/jair.5320,,,Vol. 58 (2017),article,
+,Explicit Document Modeling through Weighted Multiple-Instance Learning,"Nikolaos Pappas,Andrei Popescu-Belis",https://doi.org/10.1613/jair.5240,,,Vol. 58 (2017),article,
+,Robots in Retirement Homes: Applying Off-the-Shelf Planning and Scheduling to a Team of Assistive Robots,"Tony T. Tran,Tiago Vaquero,Goldie Nejat,J. Christopher Beck",https://doi.org/10.1613/jair.5306,,,Vol. 58 (2017),article,
+,New Canonical Representations by Augmenting OBDDs with Conjunctive Decomposition,"Yong Lai,Dayou Liu,Minghao Yin",https://doi.org/10.1613/jair.5271,,,Vol. 58 (2017),article,
+,A Complexity Approach for Core-Selecting Exchange under Conditionally Lexicographic Preferences,"Etsushi Fujita,Julien Lesca,Akihisa Sonoda,Taiki Todo,Makoto Yokoo",https://doi.org/10.1613/jair.1.11254,,,Vol. 63 (2018),article,
+,Approximation and Parameterized Complexity of Minimax Approval Voting,"Marek Cygan,Łukasz Kowalik,Arkadiusz Socała,Krzysztof Sornat",https://doi.org/10.1613/jair.1.11253,,,Vol. 63 (2018),article,
+,LTL on Finite and Process Traces: Complexity Results and a Practical Reasoner,"Valeria Fionda,Gianluigi Greco",https://doi.org/10.1613/jair.1.11256,,,Vol. 63 (2018),article,
+,Consequence-Based Reasoning for Description Logics with Disjunctions and Number Restrictions,"Andrew Bate,Boris Motik,Bernardo Cuenca Grau,David Tena Cucala,František Simančík,Ian Horrocks",https://doi.org/10.1613/jair.1.11257,,,Vol. 63 (2018),article,
+,Proximal Gradient Temporal Difference Learning: Stable Reinforcement Learning with Polynomial Sample Complexity,"Bo Liu,Ian Gemp,Mohammad Ghavamzadeh,Ji Liu,Sridhar Mahadevan,Marek Petrik",https://doi.org/10.1613/jair.1.11251,,,Vol. 63 (2018),article,
+,Graphical Model Market Maker for Combinatorial Prediction Markets,"Kathryn Blackmond Laskey,Wei Sun,Robin Hanson,Charles Twardy,Shou Matsumoto,Brandon Goldfedder",https://doi.org/10.1613/jair.1.11249,,,Vol. 63 (2018),article,
+,Robust Text Classification under Confounding Shift,"Virgile Landeiro,Aron Culotta",https://doi.org/10.1613/jair.1.11248,,,Vol. 63 (2018),article,
+,"Cooperative, Dynamics-based, and Abstraction-Guided Multi-robot Motion Planning","Duong Le,Erion Plaku",https://doi.org/10.1613/jair.1.11244,,,Vol. 63 (2018),article,
+,Watching and Acting Together: Concurrent Plan Recognition and Adaptation for Human-Robot Teams,"Steven James Levine,Brian Charles Williams",https://doi.org/10.1613/jair.1.11243,,,Vol. 63 (2018),article,
+,Revisiting the Approximation Bound for Stochastic Submodular Cover,"Lisa Hellerstein,Devorah Kletenik",https://doi.org/10.1613/jair.1.11242,,,Vol. 63 (2018),article,
+,Efficient Computation of Semivalues for Game-Theoretic Network Centrality,"Mateusz K. Tarkowski,Piotr L. Szczepański,Tomasz P. Michalak,Paul Harrenstein,Michael Wooldridge",https://doi.org/10.1613/jair.1.11239,,,Vol. 63 (2018),article,
+,Belief Integration and Source Reliability Assessment,Paolo Liberatore,https://doi.org/10.1613/jair.1.11238,,,Vol. 63 (2018),article,
+,Query Answering with Transitive and Linear-Ordered Data,"Antone Amarilli,Michael Benedikt,Pierre Bourhis,Michael Vanden Boom",https://doi.org/10.1613/jair.1.11240,,,Vol. 63 (2018),article,
+,A Core Method for the Weak Completion Semantics with Skeptical Abduction,"Emmanuelle-Anna Dietz Saldanha,Steffen Hölldobler,Carroline Dewi Puspa Kencana Ramli,Luis Palacios Medinacelli",https://doi.org/10.1613/jair.1.11236,,,Vol. 63 (2018),article,
+,A Model-Theoretic View on Qualitative Constraint Reasoning,"Manuel Bodirsky,Peter Jonsson",https://doi.org/10.1613/jair.5260,,,Vol. 58 (2017),article,
+,Human-Machine Collaborative Optimization via Apprenticeship Scheduling,"Matthew Gombolay,Reed Jensen,Jessica Stigile,Toni Golen,Neel Shah,Sung-Hyun Son,Julie Shah",https://doi.org/10.1613/jair.1.11233,,,Vol. 63 (2018),article,
+,Computational Aspects of Nearly Single-Peaked Electorates,"Gábor Erdélyi,Martin Lackner,Andreas Pfandler",https://doi.org/10.1613/jair.5210,,,Vol. 58 (2017),article,
+,"Bayesian Network Structure Learning with Integer Programming: Polytopes, Facets and Complexity","James Cussens,Matti Järvisalo,Janne H. Korhonen,Mark Bartlett",https://doi.org/10.1613/jair.5203,,,Vol. 58 (2017),article,
+,Local Search for Minimum Weight Dominating Set with Two-Level Configuration Checking and Frequency Based Scoring Function,"Yiyuan Wang,Shaowei Cai,Minghao Yin",https://doi.org/10.1613/jair.5205,,,Vol. 58 (2017),article,
+,DESPOT: Online POMDP Planning with Regularization,"Nan Ye,Adhiraj Somani,David Hsu,Wee Sun Lee",https://doi.org/10.1613/jair.5328,,,Vol. 58 (2017),article,
+,Subset Selection Via Implicit Utilitarian Voting,"Ioannis Caragiannis,Swaprava Nath,Ariel D. Procaccia,Nisarg Shah",https://doi.org/10.1613/jair.5282,,,Vol. 58 (2017),article,
+,A Knowledge Level Account of Forgetting,James P. Delgrande,https://doi.org/10.1613/jair.5530,,,Vol. 60 (2017),article,
+,Tie-Breaking Strategies for Cost-Optimal Best First Search,"Masataro Asai,Alex Fukunaga",https://doi.org/10.1613/jair.5249,,,Vol. 58 (2017),article,
+,Controlled School Choice with Soft Bounds and Overlapping Types,"Ryoji Kurata,Naoto Hamada,Atsushi Iwasaki,Makoto Yokoo",https://doi.org/10.1613/jair.5297,,,Vol. 58 (2017),article,
+,A Game Theoretic Analysis of the Adversarial Retrieval Setting,"Ran Ben Basat,Moshe Tennenholtz,Oren Kurland",https://doi.org/10.1613/jair.5547,,,Vol. 60 (2017),article,
+,Confidence Decision Trees via Online and Active Learning for Streaming Data,"Rocco De Rosa,Nicolò Cesa-Bianchi",https://doi.org/10.1613/jair.5440,,,Vol. 60 (2017),article,
+,Axiomatising Incomplete Preferences through Sets of Desirable Gambles,"Marco Zaffalon,Enrique Miranda",https://doi.org/10.1613/jair.5230,,,Vol. 60 (2017),article,
+,Learning Neural Audio Embeddings for Grounding Semantics in Auditory Perception,"Douwe Kiela,Stephen Clark",https://doi.org/10.1613/jair.5665,,,Vol. 60 (2017),article,
+,Elections with Few Voters: Candidate Control Can Be Easy,"Jiehua Chen,Piotr Faliszewski,Rolf Niedermeier,Nimrod Talmon",https://doi.org/10.1613/jair.5515,,,Vol. 60 (2017),article,
+,On Monte Carlo Tree Search and Reinforcement Learning,"Tom Vodopivec,Spyridon Samothrakis,Branko Ster",https://doi.org/10.1613/jair.5507,,,Vol. 60 (2017),article,
+,Prime Implicate Generation in Equational Logic,"Mnacho Echenim,Nicolas Peltier,Sophie Tourret",https://doi.org/10.1613/jair.5481,,,Vol. 60 (2017),article,
+,On the Equivalence between Assumption-Based Argumentation and Logic Programming,"Martin Caminada,Claudia Schulz",https://doi.org/10.1613/jair.5581,,,Vol. 60 (2017),article,
+,Chamberlin--Courant Rule with Approval Ballots: Approximating the MaxCover Problem with Bounded Frequencies in FPT Time,"Piotr Skowron,Piotr Faliszewski",https://doi.org/10.1613/jair.5628,,,Vol. 60 (2017),article,
+,Viewpoint: A Critical View on Smart Cities and AI,"Daniela Inclezan,Luis I. Pradanos",https://doi.org/10.1613/jair.5660,,,Vol. 60 (2017),article,
+,Multi-Organ Exchange,"John P. Dickerson,Tuomas Sandholm",https://doi.org/10.1613/jair.4919,,,Vol. 60 (2017),article,
+,Sample-Based Tree Search with Fixed and Adaptive State Abstractions,"Jesse Hostetler,Alan Fern,Thomas Dietterich",https://doi.org/10.1613/jair.5483,,,Vol. 60 (2017),article,
+,Time and Space Bounds for Planning,"Christer Bäckström,Peter Jonsson",https://doi.org/10.1613/jair.5535,,,Vol. 60 (2017),article,
+,A Survey on Lexical Simplification,"Gustavo H. Paetzold,Lucia Specia",https://doi.org/10.1613/jair.5526,,,Vol. 60 (2017),article,
+,On Hash-Based Work Distribution Methods for Parallel Best-First Search,"Yuu Jinnai,Alex Fukunaga",https://doi.org/10.1613/jair.5225,,,Vol. 60 (2017),article,
+,Resolving Over-Constrained Temporal Problems with Uncertainty through Conflict-Directed Relaxation,"Peng Yu,Brian Williams,Cheng Fang,Jing Cui,Patrik Haslum",https://doi.org/10.1613/jair.5431,,,Vol. 60 (2017),article,
+,Preference-Based Inconsistency Management in Multi-Context Systems,"Thomas Eiter,Antonius Weinzierl",https://doi.org/10.1613/jair.5416,,,Vol. 60 (2017),article,
+,Residual-Guided Look-Ahead in AND/OR Search for Graphical Models,"William Lam,Kalev Kask,Javier Larrosa,Rina Dechter",https://doi.org/10.1613/jair.5475,,,Vol. 60 (2017),article,
+,The Linear Programming Approach to Reach-Avoid Problems for Markov Decision Processes,"Nikolaos Kariotoglou,Maryam Kamgarpour,Tyler H. Summers,John Lygeros",https://doi.org/10.1613/jair.5500,,,Vol. 60 (2017),article,
+,On the Semantics and Complexity of Probabilistic Logic Programs,"Fabio Gagliardi Cozman,Denis Deratani Mauá",https://doi.org/10.1613/jair.5482,,,Vol. 60 (2017),article,
+,Combining Lexical and Syntactic Features for Detecting Content-Dense Texts in News,"Yinfei Yang,Ani Nenkova",https://doi.org/10.1613/jair.5418,,,Vol. 60 (2017),article,
+,Complexity Results and Algorithms for Extension Enforcement in Abstract Argumentation,"Johannes P. Wallner,Andreas Niskanen,Matti Järvisalo",https://doi.org/10.1613/jair.5415,,,Vol. 60 (2017),article,
+,The Sixth Answer Set Programming Competition,"Martin Gebser,Marco Maratea,Francesco Ricca",https://doi.org/10.1613/jair.5373,,,Vol. 60 (2017),article,
+,Pattern-Based Approach to the Workflow Satisfiability Problem with User-Independent Constraints,"Daniel Karapetyan,Andrew J. Parkes,Gregory Gutin,Andrei Gagarin",https://doi.org/10.1613/jair.1.11339,,,Vol. 66 (2019),article,
+,From Support Propagation to Belief Propagation in Constraint Programming,Gilles Pesant,https://doi.org/10.1613/jair.1.11487,,,Vol. 66 (2019),article,
+,Multi-fidelity Gaussian Process Bandit Optimisation,"Kirthevasan Kandasamy,Gautam Dasarathy,Junier Oliva,Jeff Schneider,Barnabás Póczos",https://doi.org/10.1613/jair.1.11288,,,Vol. 66 (2019),article,
+,"Timed ATL: Forget Memory, Just Count","Michal Jozef Knapik,Etienne Andre,Laure Petrucci,Wojciech Jamroga,Wojciech Penczek",https://doi.org/10.1613/jair.1.11612,,,Vol. 66 (2019),article,
+,Context Vectors are Reflections of Word Vectors in Half the Dimensions,"Zhenisbek Assylbekov,Rustem Takhanov",https://doi.org/10.1613/jair.1.11368,,,Vol. 66 (2019),article,
+,What is this Article about? Extreme Summarization with Topic-aware Convolutional Neural Networks,"Shashi Narayan,Shay B. Cohen,Mirella Lapata",https://doi.org/10.1613/jair.1.11315,,,Vol. 66 (2019),article,
+,Type-aware Convolutional Neural Networks for Slot Filling,"Heike Adel,Hinrich Schuetze",https://doi.org/10.1613/jair.1.11725,,,Vol. 66 (2019),article,
+,Formulas Free From Inconsistency: An Atom-Centric Characterization in Priest's Minimally Inconsistent LP,Kedian Mu,https://doi.org/10.1613/jair.1.11720,,,Vol. 66 (2019),article,
+,A Survey on Temporal Reasoning for Temporal Information Extraction from Text,"Artuur Leeuwenberg,Marie-Francine Moens",https://doi.org/10.1613/jair.1.11727,,,Vol. 66 (2019),article,
+,DSTL: Solution to Limitation of Small Corpus in Speech Emotion Recognition,"Ying Chen,Zhongzhe Xiao,Xiaojun Zhang,Zhi Tao",https://doi.org/10.1613/jair.1.11741,,,Vol. 66 (2019),article,
+,Community Structure in Industrial SAT Instances,"Carlos Ansótegui,Maria Luisa Bonet,Jesús Giráldez-Cru,Jordi Levy,Laurent Simon",https://doi.org/10.1613/jair.1.11325,,,Vol. 66 (2019),article,
+,Revisiting Counting Solutions for the Global Cardinality Constraint,"Giovanni Lo Bianco,Xavier Lorca,Charlotte Truchet,Gilles Pesant",https://doi.org/10.1613/jair.1.11758,,,Vol. 66 (2019),article,
+,Synthesizing Argumentation Frameworks from Examples,"Andreas Niskanen,Johannes P. Wallner,Matti Järvisalo",https://doi.org/10.1613/jair.1.11352,,,Vol. 66 (2019),article,
+,Acceptable Planning: Influencing Individual Behavior to Reduce Transportation Energy Expenditure of a City,"Shiwali Mohan,Hesham Rakha,Matt Klenk",https://doi.org/10.1613/jair.1.11808,,,Vol. 66 (2019),article,
+,On Non-Cooperativeness in Social Distance Games,"Alkida Balliu,Michele Flammini,Giovanna Melideo,Dennis Olivetti",https://doi.org/10.1613/jair.1.11541,,,Vol. 66 (2019),article,
+,Multi-agent Inverse Reinforcement Learning for Certain General-sum Stochastic Games,"Xiaomin Lin,Stephen C. Adams,Peter A. Beling",https://doi.org/10.1613/jair.1.11295,,,Vol. 66 (2019),article,
+,Variable Elimination in Binary CSPs,"Martin C. Cooper,Achref El Mouelhi,Cyril Terrioux",https://doi.org/10.1613/jair.1.11821,,,Vol. 66 (2019),article,
+,On the Time and Space Complexity of Genetic Programming for Evolving Boolean Conjunctions,"Andrei Lissovoi,Pietro S. Oliveto",https://doi.org/10.1613/jair.1.11561,,,Vol. 66 (2019),article,
+,Embedding Projection for Targeted Cross-lingual Sentiment: Model Comparisons and a Real-World Study,"Jeremy Barnes,Roman Klinger",https://doi.org/10.1613/jair.3892,,,Vol. 66 (2019),article,
+,Natural Language Inference for Arabic Using Extended Tree Edit Distance with Subtrees,"M. Alabbas,A. Ramsay",https://doi.org/10.1613/jair.4033,,,Vol. 48 (2013),article,
+,Unsupervised Sub-tree Alignment for Tree-to-Tree Translation,"T. Xiao,J. Zhu",https://doi.org/10.1613/jair.4100,,,Vol. 48 (2013),article,
+,A Case of Pathology in Multiobjective Heuristic Search,"J.L. Pérez de la Cruz,L. Mandow,E. Machuca",https://doi.org/10.1613/jair.4017,,,Vol. 48 (2013),article,
+,Generating Natural Language Descriptions from OWL Ontologies: the NaturalOWL System,"I. Androutsopoulos,G. Lampouras,D. Galanis",https://doi.org/10.1613/jair.3870,,,Vol. 48 (2013),article,
+,Reasoning about Explanations for Negative Query Answers in DL-Lite,"D. Calvanese,M. Ortiz,M. Simkus,G. Stefanoni",https://doi.org/10.1613/jair.4129,,,Vol. 48 (2013),article,
+,Comparative Evaluation of Link-Based Approaches for Candidate Ranking in Link-to-Wikipedia Systems,"N. Fernandez Garcia,J. Arias Fisteus,L. Sanchez Fernandez",https://doi.org/10.1613/jair.4271,,,Vol. 49 (2014),article,
+,Convergence of a Q-learning Variant for Continuous States and Actions,S. W. Carden,https://doi.org/10.1613/jair.3907,,,Vol. 49 (2014),article,
+,NuMVC: An Efficient Local Search Algorithm for Minimum Vertex Cover,"S. Cai,K. Su,C. Luo,A. Sattar",https://doi.org/10.1613/jair.3484,,,Vol. 46 (2013),article,
+,Learning to Win by Reading Manuals in a Monte-Carlo Framework,"S.R.K. Branavan,D. Silver,R. Barzilay",https://doi.org/10.1613/jair.3826,,,Vol. 43 (2012),article,
+,Description Logic Knowledge and Action Bases,"B. Bagheri Hariri,D. Calvanese,M. Montali,G. De Giacomo,R. De Masellis,P. Felli",https://doi.org/10.1613/jair.3786,,,Vol. 46 (2013),article,
+,Evaluating Indirect Strategies for Chinese-Spanish Statistical Machine Translation,"M. R. Costa-jussà,C. A. Henríquez,R. E. Banchs",https://doi.org/10.1613/jair.3329,,,Vol. 45 (2012),article,
+,Interpolable Formulas in Equilibrium Logic and Answer Set Programming,"D. Gabbay,D. Pearce,A. Valverde",https://doi.org/10.1613/jair.3365,,,Vol. 42 (2011),article,
+,Multi-Robot Adversarial Patrolling: Facing a Full-Knowledge Opponent,"N. Agmon,G. A. Kaminka,S. Kraus",https://doi.org/10.1613/jair.3437,,,Vol. 42 (2011),article,
+,Dr.Fill: Crosswords and an Implemented Solver for Singly Weighted CSPs,M. L. Ginsberg,https://doi.org/10.1613/jair.3094,,,Vol. 42 (2011),article,
+,Best-First Heuristic Search for Multicore Machines,"E. Burns,S. Lemons,W. Ruml,R. Zhou",https://doi.org/10.1613/jair.3050,,,Vol. 39 (2010),article,
+,Intrusion Detection using Continuous Time Bayesian Networks,"J. Xu,C. R. Shelton",https://doi.org/10.1613/jair.3070,,,Vol. 39 (2010),article,
+,Algorithms for Closed Under Rational Behavior (CURB) Sets,"M. Benisch,G. B. Davis,T. Sandholm",https://doi.org/10.1613/jair.3062,,,Vol. 38 (2010),article,
+,A Minimum Relative Entropy Principle for Learning and Acting,"P. A. Ortega,D. A. Braun",https://doi.org/10.1613/jair.3021,,,Vol. 38 (2010),article,
+,Automatic Induction of Bellman-Error Features for Probabilistic Planning,"J. Wu,R. Givan",https://doi.org/10.1613/jair.3002,,,Vol. 38 (2010),article,
+,Multiattribute Auctions Based on Generalized Additive Independence,"Y. Engel,M. P. Wellman",https://doi.org/10.1613/jair.2901,,,Vol. 37 (2010),article,
+,Reasoning About the Transfer of Control,"W. van der Hoek,D. Walther,M. Wooldridge",https://doi.org/10.1613/jair.2962,,,Vol. 37 (2010),article,
+,Training a Multilingual Sportscaster: Using Perceptual Context to Learn Language,"D. L. Chen,J. Kim,R. J. Mooney",https://doi.org/10.1613/jair.2842,,,Vol. 37 (2010),article,
+,Join-Graph Propagation Algorithms,"R. Mateescu,K. Kask,V. Gogate,R. Dechter",https://doi.org/10.1613/jair.2915,,,Vol. 37 (2010),article,
+,An Investigation into Mathematical Programming for Finite Horizon Decentralized POMDPs,"R. Aras,A. Dutech",https://doi.org/10.1613/jair.2912,,,Vol. 37 (2010),article,
+,Context-based Word Acquisition for Situated Dialogue in a Virtual World,"S. Qu,J. Y. Chai",https://doi.org/10.1613/jair.2959,,,Vol. 37 (2010),article,
+,On Action Theory Change,I. J. Varzinczak,https://doi.org/10.1613/jair.2934,,,Vol. 37 (2010),article,
+,From Frequency to Meaning: Vector Space Models of Semantics,"P. D. Turney,P. Pantel",https://doi.org/10.1613/jair.2905,,,Vol. 37 (2010),article,
+,Interactive Cost Configuration Over Decision Diagrams,"H. R. Andersen,T. Hadzic,D. Pisinger",https://doi.org/10.1613/jair.2950,,,Vol. 37 (2010),article,
+,Mechanisms for Multi-Unit Auctions,"S. Dobzinski,N. Nisan",https://doi.org/10.1613/jair.2890,,,Vol. 37 (2010),article,
+,Predicting the Performance of IDA* using Conditional Distributions,"U. Zahavi,A. Felner,N. Burch,R. C. Holte",https://doi.org/10.1613/jair.3060,,,Vol. 37 (2010),article,
+,Non-Transferable Utility Coalitional Games via Mixed-Integer Linear Constraints,"G. Greco,E. Malizia,L. Palopoli,F. Scarcello",https://doi.org/10.1613/jair.2880,,,Vol. 38 (2010),article,
+,Text Relatedness Based on a Word Thesaurus,"G. Tsatsaronis,I. Varlamis,M. Vazirgiannis",https://doi.org/10.1613/jair.2986,,,Vol. 37 (2010),article,
+,Cause Identification from Aviation Safety Incident Reports via Weakly Supervised Semantic Lexicon Construction,"M. A. Abedin,V. Ng,L. Khan",https://doi.org/10.1613/jair.3088,,,Vol. 38 (2010),article,
+,Logical Foundations of RDF(S) with Datatypes,"J. de Bruijn,S. Heymans",https://doi.org/10.1613/jair.3004,,,Vol. 38 (2010),article,
+,Resource-Driven Mission-Phasing Techniques for Constrained Agents in Stochastic Environments,"J. Wu,E. H. Durfee",https://doi.org/10.1613/jair.3025,,,Vol. 38 (2010),article,
+,Approximate Model-Based Diagnosis Using Greedy Stochastic Search,"A. Feldman,G. Provan,A. van Gemund",https://doi.org/10.1613/jair.2961,,,Vol. 38 (2010),article,
+,Mixed Strategies in Combinatorial Agency,"M. Babaioff,M. Feldman,N. Nisan",https://doi.org/10.1613/jair.3014,,,Vol. 38 (2010),article,
+,Fast Set Bounds Propagation Using a BDD-SAT Hybrid,"G. Gange,P. J. Stuckey,V. Lagoon",https://doi.org/10.1613/jair.2980,,,Vol. 38 (2010),article,
+,Grounding FO and FO(ID) with Bounds,"J. Wittocx,M. Mariën,M. Denecker",https://doi.org/10.1613/jair.2992,,,Vol. 38 (2010),article,
+,Developing Approaches  for Solving a Telecommunications Feature Subscription Problem,"D. Lesaint,D. Mehta,B. O'Sullivan,L. Quesada,N. Wilson",https://doi.org/10.1613/jair.2937,,,Vol. 38 (2010),article,
+,"Constructing Reference Sets from Unstructured, Ungrammatical Text","M. Michelson,C. A. Knoblock",https://doi.org/10.1613/jair.2965,,,Vol. 38 (2010),article,
+,Change in Abstract Argumentation Frameworks: Adding an Argument,"C. Cayrol,F. Dupin de Saint-Cyr,M. Lagasquie-Schiex",https://doi.org/10.1613/jair.2849,,,Vol. 38 (2010),article,
+,BnB-ADOPT: An Asynchronous Branch-and-Bound DCOP Algorithm,"W. Yeoh,A. Felner,S. Koenig",https://doi.org/10.1613/jair.2985,,,Vol. 38 (2010),article,
+,A Survey of Paraphrasing and Textual Entailment Methods,"I. Androutsopoulos,P. Malakasiotis",https://doi.org/10.1613/jair.2964,,,Vol. 38 (2010),article,
+,Using Local Alignments for Relation Recognition,"S. Katrenko,P. W. Adriaans,M. van Someren",https://doi.org/10.1613/jair.3109,,,Vol. 38 (2010),article,
+,An Effective Algorithm for and Phase Transitions of the Directed Hamiltonian Cycle Problem,"G. Jäger,W. Zhang",https://doi.org/10.1613/jair.3003,,,Vol. 39 (2010),article,
+,Which Clustering Do You Want? Inducing Your Ideal Clustering with Minimal Feedback,"S. Dasgupta,V. Ng",https://doi.org/10.1613/jair.3089,,,Vol. 39 (2010),article,
+,A Utility-Theoretic Approach to Privacy in Online Services,"A. Krause,E. Horvitz",https://doi.org/10.1613/jair.2994,,,Vol. 39 (2010),article,
+,Theta*: Any-Angle Path Planning on Grids,"K. Daniel,A. Nash,S. Koenig,A. Felner",https://doi.org/10.1613/jair.3031,,,Vol. 39 (2010),article,
+,A Model-Based Active Testing Approach to Sequential Diagnosis,"A. Feldman,G. Provan,A. van Gemund",https://doi.org/10.1613/jair.2945,,,Vol. 39 (2010),article,
+,Active Tuples-based Scheme for Bounding Posterior Beliefs,"B. Bidyuk,R. Dechter,E. Rollon",https://doi.org/10.1613/jair.3077,,,Vol. 39 (2010),article,
+,Kalman Temporal Differences,"M. Geist,O. Pietquin",https://doi.org/10.1613/jair.3076,,,Vol. 39 (2010),article,
+,Case-Based Subgoaling in Real-Time Heuristic Search for Video Game Pathfinding,"V. Bulitko,Y. Björnsson,R. Lawrence",https://doi.org/10.1613/jair.3029,,,Vol. 39 (2010),article,
+,"Nominals, Inverses, Counting, and Conjunctive Queries or: Why Infinity is your Friend!","S. Rudolph,B. Glimm",https://doi.org/10.1613/jair.2989,,,Vol. 39 (2010),article,
+,Narrative Planning: Balancing Plot and Character,"M. O. Riedl,R. M. Young",https://doi.org/10.1613/jair.3069,,,Vol. 39 (2010),article,
+,A Constraint Satisfaction Framework for Executing Perceptions and Actions in Diagrammatic Reasoning,"B. Banerjee,B. Chandrasekaran",https://doi.org/10.1613/jair.3075,,,Vol. 39 (2010),article,
+,Cooperative Games with Overlapping Coalitions,"G. Chalkiadakis,E. Elkind,E. Markakis,M. Polukarov,N. R. Jennings",https://doi.org/10.1613/jair.2972,,,Vol. 39 (2010),article,
+,The LAMA Planner: Guiding Cost-Based Anytime Planning with Landmarks,"S. Richter,M. Westphal",https://doi.org/10.1613/jair.3063,,,Vol. 39 (2010),article,
+,Implicit Abstraction Heuristics,"M. Katz,C. Domshlak",https://doi.org/10.1613/jair.3093,,,Vol. 39 (2010),article,
+,Planning with Noisy Probabilistic Relational Rules,"T. Lang,M. Toussaint",https://doi.org/10.1613/jair.3198,,,Vol. 39 (2010),article,
+,Regression Conformal Prediction with Nearest Neighbours,"H. Papadopoulos,V. Vovk,A. Gammerman",https://doi.org/10.1613/jair.3196,,,Vol. 40 (2011),article,
+,Computing Small Unsatisfiable Cores in Satisfiability Modulo Theories,"A. Cimatti,A. Griggio,R. Sebastiani",https://doi.org/10.1613/jair.3182,,,Vol. 40 (2011),article,
+,Identifying Aspects for Web-Search Queries,"F. Wu,J. Madhavan,A. Halevy",https://doi.org/10.1613/jair.3231,,,Vol. 40 (2011),article,
+,Scaling up Heuristic Planning with Relational Decision Trees,"T. De la Rosa,S. Jimenez,R. Fuentetaja,D. Borrajo",https://doi.org/10.1613/jair.3232,,,Vol. 40 (2011),article,
+,Exploiting Structure in Weighted Model Counting Approaches to Probabilistic Inference,"W. Li,P. Poupart,P. van Beek",https://doi.org/10.1613/jair.3248,,,Vol. 40 (2011),article,
+,The Complexity of Integer Bound Propagation,"L. Bordeaux,G. Katsirelos,N. Narodytska,M. Y. Vardi",https://doi.org/10.1613/jair.3351,,,Vol. 40 (2011),article,
+,Decidability and Undecidability Results for Propositional Schemata,"V. Aravantinos,R. Caferra,N. Peltier",https://doi.org/10.1613/jair.3213,,,Vol. 40 (2011),article,
+,Multiagent Learning in Large Anonymous Games,"I. A. Kash,E. J. Friedman,J. Y. Halpern",https://doi.org/10.1613/jair.3171,,,Vol. 40 (2011),article,
+,Efficient Planning under Uncertainty with Macro-actions,"R. He,E. Brunskill,N. Roy",https://doi.org/10.1613/jair.3184,,,Vol. 40 (2011),article,
+,On-line Planning and Scheduling: An Application to Controlling Modular Printers,"W. Ruml,M. B. Do,R. Zhou,M. P.J. Fromherz",https://doi.org/10.1613/jair.3348,,,Vol. 40 (2011),article,
+,Controlling Complexity in Part-of-Speech Induction,"J. V. Graca,K. Ganchev,L. Coheur,F. Pereira,B. Taskar",https://doi.org/10.1613/jair.3118,,,Vol. 41 (2011),article,
+,Evaluating Temporal Graphs Built from Texts via Transitive Reduction,"X. Tannier,P. Muller",https://doi.org/10.1613/jair.3229,,,Vol. 40 (2011),article,
+,A Probabilistic Framework for Learning Kinematic Models of Articulated Objects,"J. Sturm,C. Stachniss,W. Burgard",https://doi.org/10.1613/jair.3120,,,Vol. 41 (2011),article,
+,Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference Resolution,"A. Rahman,V. Ng",https://doi.org/10.1613/jair.3318,,,Vol. 40 (2011),article,
+,On the Intertranslatability of Argumentation Semantics,"W. Dvořák,S. Woltran",https://doi.org/10.1613/jair.3313,,,Vol. 41 (2011),article,
+,Efficient Multi-Start Strategies for Local Search Algorithms,"A. György,L. Kocsis",https://doi.org/10.1613/jair.3384,,,Vol. 41 (2011),article,
+,Policy Invariance under Reward Transformations for General-Sum Stochastic Games,"X. Lu,H. M. Schwartz,S. N. Givigi",https://doi.org/10.1613/jair.3327,,,Vol. 41 (2011),article,
+,The Opposite of Smoothing: A Language Model Approach to Ranking Query-Specific Document Clusters,"O. Kurland,E. Krikon",https://doi.org/10.1613/jair.3296,,,Vol. 41 (2011),article,
+,Sequential Diagnosis by Abstraction,"S. A. Siddiqi,J. Huang",https://doi.org/10.1613/jair.3214,,,Vol. 41 (2011),article,
+,From ``Identical'' to ``Similar'': Fusing Retrieved Lists Based on Inter-Document Similarities,"A. Khudyak Kozorovitsky,O. Kurland",https://doi.org/10.1613/jair.3269,,,Vol. 41 (2011),article,
+,"Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness","D. Korzhyk,Z. Yin,C. Kiekintveld,V. Conitzer,M. Tambe",https://doi.org/10.1613/jair.3205,,,Vol. 41 (2011),article,
+,Probabilistic Relational Planning  with First Order Decision Diagrams,"S. Joshi,R. Khardon",https://doi.org/10.1613/jair.3276,,,Vol. 41 (2011),article,
+,Analyzing Search Topology Without Running Any Search: On the   Connection Between Causal Graphs and h+,J. Hoffmann,https://doi.org/10.1613/jair.3225,,,Vol. 41 (2011),article,
+,Redistribution Mechanisms for Assignment of Heterogeneous Objects,"S. P. Gujar,Y Narahari",https://doi.org/10.1613/jair.3197,,,Vol. 41 (2011),article,
+,Soft Constraints of Difference and Equality,"E. Hebrard,D. Marx,B. O'Sullivan,I. Razgon",https://doi.org/10.1613/jair.3186,,,Vol. 41 (2011),article,
+,Determining Possible and Necessary Winners Given Partial Orders,"L. Xia,V. Conitzer",https://doi.org/10.1613/jair.3200,,,Vol. 41 (2011),article,
+,Value of Information Lattice: Exploiting Probabilistic Independence for Effective Feature Subset Acquisition,"M. Bilgic,L. Getoor",https://doi.org/10.1613/jair.3195,,,Vol. 41 (2011),article,
+,Properties of Bethe Free Energies and Message Passing in Gaussian Models,"B. Cseke,T. Heskes",https://doi.org/10.1613/jair.3136,,,Vol. 41 (2011),article,
+,Multimode Control Attacks on Elections,"P. Faliszewski,E. Hemaspaandra,L. A. Hemaspaandra",https://doi.org/10.1613/jair.3152,,,Vol. 40 (2011),article,
+,Clause-Learning Algorithms with Many Restarts and Bounded-Width Resolution,"A. Atserias,J. K. Fichte,M. Thurley",https://doi.org/10.1613/jair.3132,,,Vol. 40 (2011),article,
+,Iterated Belief Change Due to Actions and Observations,"A. Hunter,J. P. Delgrande",https://doi.org/10.1613/jair.3108,,,Vol. 40 (2011),article,
+,A Probabilistic Approach for Maintaining Trust Based on Evidence,"Y. Wang,C. Hang,M. P. Singh",https://doi.org/10.1613/jair.3180,,,Vol. 40 (2011),article,
+,Second-Order Consistencies,"C. Lecoutre,S. Cardon,J. Vion",https://doi.org/10.1613/jair.3125,,,Vol. 40 (2011),article,
+,A Monte-Carlo AIXI Approximation,"J. Veness,K.S. Ng,M. Hutter,W. Uther,D. Silver",https://doi.org/10.1613/jair.3126,,,Vol. 40 (2011),article,
+,Automated Search for Impossibility Theorems in Social Choice Theory: Ranking Sets of Objects,"C. Geist,U. Endriss",https://doi.org/10.1613/jair.3166,,,Vol. 40 (2011),article,
+,False-Name Manipulations in Weighted Voting Games,"H. Aziz,Y. Bachrach,E. Elkind,M. Paterson",https://doi.org/10.1613/jair.3175,,,Vol. 40 (2011),article,
+,Non-Deterministic Policies in Markovian Decision Processes,"M. Milani Fard,J. Pineau",https://doi.org/10.1613/jair.3446,,,Vol. 40 (2011),article,
+,Theoretical and Practical Foundations of Large-Scale Agent-Based Micro-Storage in the Smart Grid,"P. Vytelingum,T. D. Voice,S. D. Ramchurn,A. Rogers,N. R. Jennings",https://doi.org/10.1613/jair.3117,,,Vol. 42 (2011),article,
+,A Logical Study of Partial Entailment,"Y. Zhou,Y. Zhang",https://doi.org/10.1613/jair.3420,,,Vol. 40 (2011),article,
+,Stochastic Enforced Hill-Climbing,"J. Wu,R. Kalyanam,R. Givan",https://doi.org/10.1613/jair.3360,,,Vol. 42 (2011),article,
+,Defeasible Inclusions in Low-Complexity DLs,"P. A. Bonatti,M. Faella,L. Sauro",https://doi.org/10.1613/jair.3427,,,Vol. 42 (2011),article,
+,Finding Consensus Bayesian Network Structures,J. M. Peña,https://doi.org/10.1613/jair.3401,,,Vol. 42 (2011),article,
+,Combining Evaluation Metrics via the Unanimous Improvement Ratio and its Application to Clustering Tasks,"E. Amigó,J. Gonzalo,J. Artiles,F. Verdejo",https://doi.org/10.1613/jair.3478,,,Vol. 42 (2011),article,
+,Drake: An Efficient Executive for Temporal Plans with Choice,"P. R. Conrad,B. C. Williams",https://doi.org/10.1613/jair.3402,,,Vol. 42 (2011),article,
+,Computing Approximate Nash Equilibria and Robust Best-Responses Using Sampling,"M. Ponsen,S. de Jong,M. Lanctot",https://doi.org/10.1613/jair.3468,,,Vol. 42 (2011),article,
+,Cloning in Elections: Finding the Possible Winners,"E. Elkind,P. Faliszewski,A. Slinko",https://doi.org/10.1613/jair.3432,,,Vol. 42 (2011),article,
+,Unfounded Sets and Well-Founded Semantics of Answer Set Programs with Aggregates,"M. Alviano,F. Calimeri,W. Faber,N. Leone,S. Perri",https://doi.org/10.1613/jair.3278,,,Vol. 42 (2011),article,
+,Adaptive Submodularity: Theory and Applications in Active Learning and Stochastic Optimization,"D. Golovin,A. Krause",https://doi.org/10.1613/jair.3374,,,Vol. 42 (2011),article,
+,"Making Decisions Using Sets of Probabilities: Updating, Time Consistency, and Calibration","P. D. Grunwald,J. Y. Halpern",https://doi.org/10.1613/jair.3396,,,Vol. 42 (2011),article,
+,Learning to Make Predictions In Partially Observable Environments Without a Generative Model,"E. Talvitie,S. Singh",https://doi.org/10.1613/jair.3301,,,Vol. 42 (2011),article,
+,Most Relevant Explanation in Bayesian Networks,"C. Yuan,H. Lim,T. Lu",https://doi.org/10.1613/jair.3387,,,Vol. 42 (2011),article,
+,Centrality-as-Relevance: Support Sets and Similarity as Geometric Proximity,"R. Ribeiro,D. Martins de Matos",https://doi.org/10.1613/jair.3339,,,Vol. 42 (2011),article,
+,Representing and Reasoning with Qualitative Preferences for Compositional Systems,"G. R. Santhanam,S. Basu,V. Honavar",https://doi.org/10.1613/jair.3390,,,Vol. 42 (2011),article,
+,Topological Value Iteration Algorithms,"P. Dai,Mausam,D. S. Weld,J. Goldsmith",https://doi.org/10.1613/jair.3337,,,Vol. 42 (2011),article,
+,First-Order Stable Model Semantics and First-Order Loop Formulas,"J. Lee,Y. Meng",https://doi.org/10.1613/jair.3370,,,Vol. 42 (2011),article,
+,MAPP: a Scalable Multi-Agent Path Planning Algorithm with Tractability and Completeness Guarantees,"K. C. Wang,A. Botea",https://doi.org/10.1613/jair.3388,,,Vol. 42 (2011),article,
+,Scheduling Bipartite Tournaments to Minimize Total Travel Distance,"R. Hoshino,K. Kawarabayashi",https://doi.org/10.1613/jair.3364,,,Vol. 42 (2011),article,
+,"On the Link between Partial Meet, Kernel, and Infra Contraction and its Application to Horn Logic","R. Booth,T. Meyer,I. Varzinczak,R. Wassermann",https://doi.org/10.1613/jair.3223,,,Vol. 42 (2011),article,
+,Where Are the Hard Manipulation Problems?,T. Walsh,https://doi.org/10.1613/jair.3560,,,Vol. 42 (2011),article,
+,A Market-Inspired Approach for Intersection Management in Urban Road Traffic Networks,"M. Vasirani,S. Ossowski",https://doi.org/10.1613/jair.3590,,,Vol. 43 (2012),article,
+,Avoiding and Escaping Depressions in Real-Time Heuristic Search,"C. Hernandez,J. A. Baier",https://doi.org/10.1613/jair.3414,,,Vol. 43 (2012),article,
+,Proximity-Based Non-uniform Abstractions for Approximate Planning,"J. Baum,A. E. Nicholson,T. I. Dix",https://doi.org/10.1613/jair.3489,,,Vol. 43 (2012),article,
+,Reformulating the Situation Calculus and the Event Calculus in the General Theory of Stable Models and in Answer Set Programming,"J. Lee,R. Palla",https://doi.org/10.1613/jair.3500,,,Vol. 43 (2012),article,
+,Generalized Biwords for Bitext Compression and Translation Spotting,"F. Sánchez-Martínez,R. C. Carrasco,M. A. Martínez-Prieto,J. Adiego",https://doi.org/10.1613/jair.3509,,,Vol. 43 (2012),article,
+,Computing All-Pairs Shortest Paths by Leveraging Low Treewidth,"L. R. Planken,M. M. de Weerdt,R. P.J. van der Krogt",https://doi.org/10.1613/jair.3531,,,Vol. 43 (2012),article,
+,Local Consistency and SAT-Solvers,"P. Jeavons,J. Petke",https://doi.org/10.1613/jair.3470,,,Vol. 43 (2012),article,
+,Completeness Guarantees for Incomplete Ontology Reasoners: Theory and Practice,"B. Cuenca Grau,B. Motik,G. Stoilos,I. Horrocks",https://doi.org/10.1613/jair.3442,,,Vol. 43 (2012),article,
+,SAS+ Planning as Satisfiability,"R. Huang,Y. Chen,W. Zhang",https://doi.org/10.1613/jair.3476,,,Vol. 43 (2012),article,
+,Consistency Techniques for Flow-Based Projection-Safe Global Cost Functions in Weighted Constraint Satisfaction,"J.H.M. Lee,K. L. Leung",https://doi.org/10.1613/jair.3463,,,Vol. 43 (2012),article,
+,Counting-Based Search: Branching Heuristics for Constraint Satisfaction Problems,"G. Pesant,C. Quimper,A. Zanarini",https://doi.org/10.1613/jair.3461,,,Vol. 43 (2012),article,
+,Exploiting Model Equivalences for Solving Interactive Dynamic Influence Diagrams,"Y. Zeng,P. Doshi",https://doi.org/10.1613/jair.3456,,,Vol. 43 (2012),article,
+,The CQC Algorithm: Cycling in Graphs to Semantically Enrich and Enhance a Bilingual Dictionary,"T. Flati,R. Navigli",https://doi.org/10.1613/jair.3421,,,Vol. 43 (2012),article,
+,Location-Based Reasoning about Complex Multi-Agent Behavior,"A. Sadilek,H. Kautz",https://doi.org/10.1613/jair.3451,,,Vol. 43 (2012),article,
+,Learning and Reasoning with Action-Related Places for Robust Mobile Manipulation,"F. Stulp,A. Fedrizzi,L. Mösenlechner,M. Beetz",https://doi.org/10.1613/jair.3424,,,Vol. 43 (2012),article,
+,Robust Local Search for Solving RCPSP/max with Durational Uncertainty,"N. Fu,H.C. Lau,P. Varakantham,F. Xiao",https://doi.org/10.1613/jair.3994,,,Vol. 43 (2012),article,
+,"Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics","M. Hodosh,P. Young,J. Hockenmaier",https://doi.org/10.1613/jair.4022,,,Vol. 47 (2013),article,
+,A Decidable Extension of SROIQ with Complex Role Chains and Unions,"M. Mosurovic,N. Krdzavac,H. Graves,M. Zakharyaschev",https://doi.org/10.1613/jair.4047,,,Vol. 47 (2013),article,
+,Heuristic Search When Time Matters,"E. Burns,W. Ruml,M. B. Do",https://doi.org/10.1613/jair.3949,,,Vol. 47 (2013),article,
+,Acyclicity Notions for Existential Rules and Their Application to Query Answering in Ontologies,"B. Cuenca Grau,I. Horrocks,M. Krötzsch,C. Kupke,D. Magka,B. Motik,Z. Wang",https://doi.org/10.1613/jair.3983,,,Vol. 47 (2013),article,
+,Protecting Privacy through Distributed Computation in Multi-agent Decision Making,"T. Leaute,B. Faltings",https://doi.org/10.1613/jair.3945,,,Vol. 47 (2013),article,
+,Asymmetric Distributed Constraint Optimization Problems,"T. Grinshpoun,A. Grubshtein,R. Zivan,A. Netzer,A. Meisels",https://doi.org/10.1613/jair.3968,,,Vol. 47 (2013),article,
+,A Refined View of Causal Graphs and Component Sizes: SP-Closed Graph Classes and Beyond,"C. Bäckström,P. Jonsson",https://doi.org/10.1613/jair.3896,,,Vol. 47 (2013),article,
+,On the Computation of Fully Proportional Representation,"N. Betzler,A. Slinko,J. Uhlmann",https://doi.org/10.1613/jair.3940,,,Vol. 47 (2013),article,
+,Topic Segmentation and Labeling in Asynchronous Conversations,"S. Joty,G. Carenini,R. T. Ng",https://doi.org/10.1613/jair.3904,,,Vol. 47 (2013),article,
+,Decentralized Anti-coordination Through Multi-agent Learning,"L. Cigler,B. Faltings",https://doi.org/10.1613/jair.3793,,,Vol. 47 (2013),article,
+,Lifted Variable Elimination: Decoupling the Operators from the Constraint Language,"N. Taghipour,D. Fierens,J. Davis,H. Blockeel",https://doi.org/10.1613/jair.3989,,,Vol. 47 (2013),article,
+,Learning by Observation of Agent Software Images,"P. R. Costa,L. M. Botelho",https://doi.org/10.1613/jair.3991,,,Vol. 47 (2013),article,
+,Strong Equivalence of Qualitative Optimization Problems,"W. Faber,M. Truszczyński,S. Woltran",https://doi.org/10.1613/jair.3841,,,Vol. 47 (2013),article,
+,Sharing Rewards in Cooperative Connectivity Games,"Y. Bachrach,E. Porat,J. S. Rosenschein",https://doi.org/10.1613/jair.3912,,,Vol. 47 (2013),article,
+,The Arcade Learning Environment: An Evaluation Platform for General Agents,"M. G. Bellemare,Y. Naddaf,J. Veness,M. Bowling",https://doi.org/10.1613/jair.3834,,,Vol. 47 (2013),article,
+,Analysis of Watson's Strategies for Playing Jeopardy!,"G. Tesauro,D. C. Gondek,J. Lenchner,J. Fan,J. M. Prager",https://doi.org/10.1613/jair.3879,,,Vol. 47 (2013),article,
+,A Survey on Latent Tree Models and Applications,"R. Mourad,C. Sinoquet,N. L. Zhang,T. Liu,P. Leray",https://doi.org/10.1613/jair.3860,,,Vol. 47 (2013),article,
+,Identifying the Class of Maxi-Consistent Operators in Argumentation,S. Vesic,https://doi.org/10.1613/jair.3902,,,Vol. 47 (2013),article,
+,Scheduling a Dynamic Aircraft Repair Shop with Limited Repair Resources,"M. Aramon Bajestani,J. C. Beck",https://doi.org/10.1613/jair.3747,,,Vol. 47 (2013),article,
+,Tractable Set Constraints,"M. Bodirsky,M. Hils",https://doi.org/10.1613/jair.3779,,,Vol. 45 (2012),article,
+,The Time Complexity of A* with Approximate Heuristics on Multiple-Solution Search Spaces,"H. T. Dinh,H. T. Dinh,L. Michel,A. Russell",https://doi.org/10.1613/jair.3770,,,Vol. 45 (2012),article,
+,Irrelevant and independent natural extension for sets of desirable gambles,"G. de Cooman,E. Miranda",https://doi.org/10.1613/jair.3865,,,Vol. 45 (2012),article,
+,Learning to Predict from Textual Data,"K. Radinsky,S. Davidovich,S. Markovitch",https://doi.org/10.1613/jair.3831,,,Vol. 45 (2012),article,
+,A Feature Subset Selection Algorithm Automatic Recommendation Method,"G. Wang,Q. Song,H. Sun,X. Zhang,B. Xu,Y. Zhou",https://doi.org/10.1613/jair.3840,,,Vol. 47 (2013),article,
+,Distributed Reasoning for Multiagent Simple Temporal Problems,"J. C. Boerkoel Jr.,E. H. Durfee",https://doi.org/10.1613/jair.3711,,,Vol. 47 (2013),article,
+,Replanning in Domains with Partial Information and Sensing Actions,"R. I. Brafman,G. Shani",https://doi.org/10.1613/jair.3761,,,Vol. 45 (2012),article,
+,Safe Exploration of State and Action Spaces in Reinforcement Learning,"J. Garcia,F. Fernandez",https://doi.org/10.1613/jair.3708,,,Vol. 45 (2012),article,
+,Complexity of Judgment Aggregation,"U. Endriss,U. Grandi,D. Porello",https://doi.org/10.1613/jair.3653,,,Vol. 45 (2012),article,
+,A New Look at BDDs for Pseudo-Boolean Constraints,"I. Abío,R. Nieuwenhuis,A. Oliveras,E. Rodríguez-Carbonell,V. Mayer-Eichberger",https://doi.org/10.1613/jair.3696,,,Vol. 45 (2012),article,
+,Removing Redundant Messages in N-ary BnB-ADOPT,"P. Gutierrez,P. Meseguer",https://doi.org/10.1613/jair.3680,,,Vol. 45 (2012),article,
+,A Tutorial on Dual Decomposition and Lagrangian Relaxation for Inference in Natural Language Processing,"A. M. Rush,M. J. Collins",https://doi.org/10.1613/jair.3659,,,Vol. 45 (2012),article,
+,Transforming Graph Data for Statistical Relational Learning,"R. A. Rossi,L. K. McDowell,D. W. Aha,J. Neville",https://doi.org/10.1613/jair.3713,,,Vol. 45 (2012),article,
+,Generating Approximate Solutions to the TTP using a Linear Distance Relaxation,"R. Hoshino,K. Kawarabayashi",https://doi.org/10.1613/jair.3579,,,Vol. 45 (2012),article,
+,Reasoning over Ontologies with Hidden Content: The Import-by-Query Approach,"B. Cuenca Grau,B. Motik",https://doi.org/10.1613/jair.3715,,,Vol. 45 (2012),article,
+,Coalition Structure Generation over Graphs,"T. Voice,M. Polukarov,N. R. Jennings",https://doi.org/10.1613/jair.3693,,,Vol. 45 (2012),article,
+,Towards Unsupervised Learning of Temporal Relations between Events,"S.A. Mirroshandel,G. Ghassem-Sani",https://doi.org/10.1613/jair.3547,,,Vol. 45 (2012),article,
+,Interactions between Knowledge and Time in a First-Order Logic for Multi-Agent Systems: Completeness Results,"F. Belardinelli,A. Lomuscio",https://doi.org/10.1613/jair.3658,,,Vol. 45 (2012),article,
+,An approximative inference method for solving ∃∀SO satisfiability problems,"H. Vlaeminck,J. Vennekens,M. Denecker,M. Bruynooghe",https://doi.org/10.1613/jair.3651,,,Vol. 45 (2012),article,
+,The Tractability of CSP Classes Defined by Forbidden Patterns,"D. A. Cohen,M. C. Cooper,P. Creed,D. Marx,A. Z. Salamon",https://doi.org/10.1613/jair.3893,,,Vol. 45 (2012),article,
+,Probabilistic Planning for Continuous Dynamic Systems under Bounded Risk,"M. Ono,B. C. Williams,Lars Blackmore",https://doi.org/10.1613/jair.3806,,,Vol. 46 (2013),article,
+,Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality,"T. P. Michalak,K. V. Aadithya,P. L. Szczepanski,B. Ravindran,N. R. Jennings",https://doi.org/10.1613/jair.3662,,,Vol. 46 (2013),article,
+,Predicting Behavior in Unstructured Bargaining with a Probability Distribution,"D. H. Wolpert,J. W. Bono",https://doi.org/10.1613/jair.3898,,,Vol. 46 (2013),article,
+,Qualitative Order of Magnitude Energy-Flow-Based Failure Modes and Effects Analysis,"N. A. Snooke,M. H. Lee",https://doi.org/10.1613/jair.3809,,,Vol. 46 (2013),article,
+,Boolean Equi-propagation for Concise and Efficient SAT Encodings of  Combinatorial Problems,"A. Metodi,M. Codish,P. J. Stuckey",https://doi.org/10.1613/jair.3788,,,Vol. 46 (2013),article,
+,A Hybrid LP-RPG Heuristic for Modelling Numeric Resource Flows in Planning,"A. Coles,A. Coles,M. Fox,D. Long",https://doi.org/10.1613/jair.3804,,,Vol. 46 (2013),article,
+,Incremental Clustering and Expansion for Faster Optimal Planning in Dec-POMDPs,"F. A. Oliehoek,M. T. J. Spaan,C. Amato,S. Whiteson",https://doi.org/10.1613/jair.3744,,,Vol. 46 (2013),article,
+,Parameterized Complexity Results for Exact Bayesian Network Structure Learning,"S. Ordyniak,S. Szeider",https://doi.org/10.1613/jair.3623,,,Vol. 46 (2013),article,
+,Toward Supervised Anomaly Detection,"N. Goernitz,M. Kloft,K. Rieck,U. Brefeld",https://doi.org/10.1613/jair.3732,,,Vol. 46 (2013),article,
+,Generating Extractive Summaries of Scientific Paradigms,"V. Qazvinian,D. R. Radev,S. M. Mohammad,B. Dorr,D. Zajic,M. Whidby,T. Moon",https://doi.org/10.1613/jair.3717,,,Vol. 46 (2013),article,
+,Integrative Semantic Dependency Parsing via Efficient Large-scale Feature Selection,"H. Zhao,X. Zhang,C. Kit",https://doi.org/10.1613/jair.3810,,,Vol. 46 (2013),article,
+,Undominated Groves Mechanisms,"M. Guo,E. Markakis,K. R. Apt,V. Conitzer",https://doi.org/10.1613/jair.3749,,,Vol. 46 (2013),article,
+,Short and Long Supports for Constraint Propagation,"P. Nightingale,I. P. Gent,C. Jefferson,I. Miguel",https://doi.org/10.1613/jair.3735,,,Vol. 46 (2013),article,
+,Optimal Rectangle Packing: An Absolute Placement Approach,"E. Huang,R. E. Korf",https://doi.org/10.1613/jair.3647,,,Vol. 46 (2013),article,
+,Automatic Aggregation by Joint Modeling of Aspects and Values,"C. Sauper,R. Barzilay",https://doi.org/10.1613/jair.3676,,,Vol. 46 (2013),article,
+,Online Speedup Learning for Optimal Planning,"C. Domshlak,E. Karpas,S. Markovitch",https://doi.org/10.1613/jair.3636,,,Vol. 44 (2012),article,
+,SAP Speaks PDDL: Exploiting a Software-Engineering Model for Planning in Business Process Management,"J. Hoffmann,I. Weber,F. M. Kraft",https://doi.org/10.1613/jair.3552,,,Vol. 44 (2012),article,
+,The Logical Difference for the Lightweight Description Logic EL,"B. Konev,M. Ludwig,D. Walther,F. Wolter",https://doi.org/10.1613/jair.3640,,,Vol. 44 (2012),article,
+,Domain and Function: A Dual-Space Model of Semantic Relations and Compositions,P. D. Turney,https://doi.org/10.1613/jair.3543,,,Vol. 44 (2012),article,
+,Riffled Independence for Efficient Inference with Partial Rankings,"J. Huang,A. Kapoor,C. Guestrin",https://doi.org/10.1613/jair.3598,,,Vol. 44 (2012),article,
+,Tractable Triangles and Cross-Free Convexity in Discrete Optimisation,"M. C. Cooper,S. Zivny",https://doi.org/10.1613/jair.3602,,,Vol. 44 (2012),article,
+,Narrative Planning: Compilations to Classical Planning,P. Haslum,https://doi.org/10.1613/jair.3612,,,Vol. 44 (2012),article,
+,Semantic Similarity Measures Applied to an Ontology for Human-Like Interaction,"E. Albacete,J. Calle,E. Castro,D. Cuadra",https://doi.org/10.1613/jair.3516,,,Vol. 44 (2012),article,
+,Modelling Observation Correlations for Active Exploration and Robust Object Detection,"J. Velez,G. Hemann,A. S. Huang,I. Posner,N. Roy",https://doi.org/10.1613/jair.3576,,,Vol. 44 (2012),article,
+,Algorithms for Generating Ordered Solutions for Explicit AND/OR Structures,"P. Ghosh,A. Sharma,P.P. Chakrabarti,P. Dasgupta",https://doi.org/10.1613/jair.3643,,,Vol. 44 (2012),article,
+,Plan-based Policies for Efficient Multiple Battery Load Management,"M. Fox,D. Long,D. Magazzeni",https://doi.org/10.1613/jair.3526,,,Vol. 44 (2012),article,
+,Modeling Social Causality and Responsibility Judgment in Multi-Agent Interactions,"W. Mao,J. Gratch",https://doi.org/10.1613/jair.3540,,,Vol. 44 (2012),article,
+,Improving Statistical Machine Translation for a Resource-Poor Language Using Related Resource-Rich Languages,"P. Nakov,H. T. Ng",https://doi.org/10.1613/jair.3534,,,Vol. 44 (2012),article,
+,Algorithms and Limits for Compact Plan Representations,"C. Bäckström,P. Jonsson",https://doi.org/10.1613/jair.3608,,,Vol. 44 (2012),article,
+,COLIN: Planning with Continuous Linear Numeric Change,"A. J. Coles,A. I. Coles,M. Fox,D. Long",https://doi.org/10.1613/jair.3625,,,Vol. 44 (2012),article,
+,Solving Limited Memory Influence Diagrams,"D. D. Maua,C. P. de Campos,M. Zaffalon",https://doi.org/10.1613/jair.4308,,,Vol. 44 (2012),article,
+,Algorithms for Argumentation Semantics: Labeling Attacks as a Generalization of Labeling Arguments,"S. Nofal,K. Atkinson,P. E. Dunne",https://doi.org/10.1613/jair.4217,,,Vol. 49 (2014),article,
+,Large-Scale Optimization for Evaluation Functions with Minimax Search,"K. Hoki,T. Kaneko",https://doi.org/10.1613/jair.4030,,,Vol. 49 (2014),article,
+,Inapproximability of Treewidth and Related Problems,"Y. Wu,P. Austrin,T. Pitassi,D. Liu",https://doi.org/10.1613/jair.4218,,,Vol. 49 (2014),article,
+,Algorithms and Applications for the Same-Decision Probability,"S. J. Chen,A. Choi,A. Darwiche",https://doi.org/10.1613/jair.4260,,,Vol. 49 (2014),article,
+,Improved Separations of Regular Resolution from Clause Learning Proof Systems,"M. L. Bonet,S. Buss,J. Johannsen",https://doi.org/10.1613/jair.4190,,,Vol. 49 (2014),article,
+,Information-Theoretic Multi-view Domain Adaptation: A Theoretical and Empirical Study,"P. Yang,W. Gao",https://doi.org/10.1613/jair.4224,,,Vol. 49 (2014),article,
+,Mechanisms for Fair Allocation Problems: No-Punishment Payment Rules in Verifiable Settings,"G. Greco,F. Scarcello",https://doi.org/10.1613/jair.4200,,,Vol. 49 (2014),article,
+,Text-Based Twitter User Geolocation Prediction,"B. Han,P. Cook,T. Baldwin",https://doi.org/10.1613/jair.4192,,,Vol. 49 (2014),article,
+,Multiagent Only Knowing in Dynamic Systems,"V. Belle,G. Lakemeyer",https://doi.org/10.1613/jair.4166,,,Vol. 49 (2014),article,
+,Symmetric Subgame-Perfect Equilibria in Resource Allocation,"L. Cigler,B. Faltings",https://doi.org/10.1613/jair.4175,,,Vol. 49 (2014),article,
+,Efficient HEX-Program Evaluation Based on Unfounded Sets,"T. Eiter,M. Fink,T. Krennwallner,C. Redl,P. Schüller",https://doi.org/10.1613/jair.4164,,,Vol. 49 (2014),article,
+,Selfishness Level of Strategic Games,"K. R. Apt,G. Schaefer",https://doi.org/10.1613/jair.4136,,,Vol. 49 (2014),article,
+,An Empirical Evaluation of Ranking Measures With Respect to Robustness to Noise,D. Berrar,https://doi.org/10.1613/jair.4115,,,Vol. 49 (2014),article,
+,Representing and Reasoning About the Rules of General Games With Imperfect Information,"S. Schiffel,M. Thielscher",https://doi.org/10.1613/jair.4202,,,Vol. 49 (2014),article,
+,Towards Minimizing Disappointment in Repeated Games,J. W. Crandall,https://doi.org/10.1613/jair.4220,,,Vol. 49 (2014),article,
+,A Procedural Characterization of Solution Concepts in Games,"J. Y. Halpern,Y. Moses",https://doi.org/10.1613/jair.4107,,,Vol. 49 (2014),article,
+,Closure and Consistency  In Logic-Associated  Argumentation,"P. M. Dung,P. M. Thang",https://doi.org/10.1613/jair.4126,,,Vol. 49 (2014),article,
+,Robustness and Stability in Constraint Programming under Dynamism and Uncertainty,"L. Climent,R. J. Wallace,M. A. Salido,F. Barber",https://doi.org/10.1613/jair.4193,,,Vol. 49 (2014),article,
+,A Constraint Solver for Flexible Protein Model,"F. Campeotto,A. Dal Palù,A. Dovier,F. Fioretto,E. Pontelli",https://doi.org/10.1613/jair.4125,,,Vol. 48 (2013),article,
+,A Smooth Transition from Powerlessness to Absolute Power,"E. Mossel,A. D. Procaccia,M. Z. Racz",https://doi.org/10.1613/jair.4135,,,Vol. 48 (2013),article,
+,Multimodal Distributional Semantics,"E. Bruni,N. K. Tran,M. Baroni",https://doi.org/10.1613/jair.4058,,,Vol. 49 (2014),article,
+,Exact Query Reformulation over Databases with First-order and Description Logics Ontologies,"E. Franconi,V. Kerhet,N. Ngo",https://doi.org/10.1613/jair.4117,,,Vol. 48 (2013),article,
+,Scalable and Efficient Bayes-Adaptive Reinforcement Learning Based on Monte-Carlo Tree Search,"A. Guez,D. Silver,P. Dayan",https://doi.org/10.1613/jair.4068,,,Vol. 48 (2013),article,
+,Single Network Relational Transductive Learning,"A. Dhurandhar,J. Wang",https://doi.org/10.1613/jair.4145,,,Vol. 48 (2013),article,
+,"The Complexity of Optimal Monotonic Planning: The Bad, The Good, and The Causal Graph","C. Domshlak,A. Nazarenko",https://doi.org/10.1613/jair.3908,,,Vol. 48 (2013),article,
+,AI Methods in Algorithmic Composition: A Comprehensive Survey,"J.D. Fernandez,F. Vico",https://doi.org/10.1613/jair.4031,,,Vol. 48 (2013),article,
+,Horn Clause Contraction Functions,"J. P. Delgrande,R. Wassermann",https://doi.org/10.1613/jair.4027,,,Vol. 48 (2013),article,
+,Protecting Moving Targets with Multiple Mobile Resources,"F. Fang,A. X. Jiang,M. Tambe",https://doi.org/10.1613/jair.4062,,,Vol. 48 (2013),article,
+,Defeasible Inheritance-Based Description Logics,"G. Casini,U. Straccia",https://doi.org/10.1613/jair.4057,,,Vol. 48 (2013),article,
+,Beth Definability in Expressive Description Logics,"B. ten Cate,E. Franconi,I. Seylan",https://doi.org/10.1613/jair.4025,,,Vol. 48 (2013),article,
+,A Global Model for Concept-to-Text Generation,"I. Konstas,M. Lapata",https://doi.org/10.1613/jair.3872,,,Vol. 48 (2013),article,
+,Optimizing SPARQL Query Answering over OWL Ontologies,"I. Kollia,B. Glimm",https://doi.org/10.1613/jair.4016,,,Vol. 48 (2013),article,
+,Optimal Implementation of Watched Literals and More General Techniques,I. P. Gent,https://doi.org/10.1613/jair.3987,,,Vol. 48 (2013),article,
+,A Survey of Multi-Objective Sequential Decision-Making,"D. M. Roijers,P. Vamplew,S. Whiteson,R. Dazeley",https://doi.org/10.1613/jair.4064,,,Vol. 48 (2013),article,
+,An Online Mechanism for Multi-Unit Demand and its Application to Plug-in Hybrid Electric Vehicle Charging,"V. Robu,E. H. Gerding,S. Stein,D. C. Parkes,A. Rogers,N. R. Jennings",https://doi.org/10.1613/jair.3873,,,Vol. 48 (2013),article,
+,Taming the Infinite Chase: Query Answering under Expressive Relational Constraints,"A. Calì,G. Gottlob,M. Kifer",https://doi.org/10.1613/jair.4039,,,Vol. 48 (2013),article,
+,Learning Optimal Bayesian Networks: A Shortest Path Perspective,"C. Yuan,B. Malone",,,,Vol. 48 (2013),article,

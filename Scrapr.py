@@ -55,12 +55,19 @@ def automate_scrape_data():
 
     driver.get("https://www.scitechnol.com/ArchiveJCEIT/jceit-archive.php?month=April&amp;year=2017&amp;journal=JCEIT")
     more_buttons = driver.find_elements_by_class_name("news-v1-heading-title")
-    for x in range(len(more_buttons)):
-        if more_buttons[x].is_displayed():
-            driver.execute_script("arguments[0].click();", more_buttons[x])
-        time.sleep(1)
+    time.sleep(1)
     page_source = driver.page_source
+    #print(page_source)
 
+    soup = BeautifulSoup(page_source, 'lxml')
+    data = soup.find_all('div', {'class': 'news-v1-heading'})
+    for x in data:
+         article_title = data.find_all('h3', {'class': 'news-v1-heading-title'})('a').text.strip()
+         print(article_title)
+    
+
+
+  
     driver.close()
 
     return True

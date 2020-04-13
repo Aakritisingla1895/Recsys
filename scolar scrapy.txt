@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+import scrapy
+
+
+class NetworkSpider(scrapy.Spider):
+    name = 'network'
+    #allowed_domains = ['https://scholar.google.co.in/citations?user=j54VcVEAAAAJ&hl=en']
+    start_urls = ['https://scholar.google.co.in/citations?user=PDSU_EIAAAAJ&hl=th', 'https://scholar.google.com/citations?user=5gYWKiYAAAAJ&hl=en', 'https://scholar.google.com/citations?user=zJHymXh9EVwC&hl=en', 'https://scholar.google.com/citations?user=4YwhM5oAAAAJ&hl=en', 'https://scholar.google.com/citations?user=q85mN-MAAAAJ&hl=en', 'https://scholar.google.com/citations?user=CQG60P8AAAAJ&hl=en', 'https://scholar.google.com/citations?user=fioLgZEAAAAJ&hl=th', 'https://scholar.google.com/citations?user=5JgMAPIAAAAJ&hl=en', 'https://scholar.google.com/citations?user=04K1XZYAAAAJ&hl=en', 'https://scholar.google.com/citations?user=H6fNzsMAAAAJ&hl=en', 'https://scholar.google.co.in/citations?user=RrW6XmUAAAAJ&hl=en', 'https://scholar.google.com/citations?user=3DCVnjoAAAAJ&hl=en', 'https://scholar.google.com/citations?user=NRdBUrwAAAAJ&hl=en', 'https://scholar.google.com/citations?user=P3gXOwwAAAAJ&hl=en', 'https://scholar.google.com/citations?user=NR6qg_UAAAAJ&hl=en', 'https://scholar.google.com/citations?user=XqbCCJIAAAAJ&hl=en', 'https://scholar.google.com/citations?user=dLTQKVoAAAAJ&hl=th', 'https://scholar.google.co.in/citations?user=J20etNYAAAAJ&hl=en', 'https://scholar.google.com/citations?user=J5OlsYQAAAAJ&hl=en']
+
+    def parse(self, response):
+
+        links = response.xpath('//*[@id="gsc_a_b"]/tr/td/a/@href').getall()
+        yield {'links': links}

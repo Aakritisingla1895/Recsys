@@ -1,0 +1,84 @@
+pca
+feature scaling 
+contribution
+analysis
+data collection and processing 
+story telling in literatre survey
+research gap
+model and testing
+implementation
+q-learning
+real-time environment data
+camera
+scolarly research articles
+
+traditional approach and historical data
+validations 
+agents and reward calculations 
+
+
+deployement 
+
+simulator for autonomous veicle
+
+
+
+XGBoost is an algorithm that has recently been dominating applied machine learning and Kaggle competitions for structured or tabular data.
+
+
+https://www.usatoday.com/story/college/2016/10/14/self-driving-cars-are-coming-but-college-students-have-mixed-feelings/37422279/
+https://www.ecolane.com/blog/autonomous-shuttles-frontrunner-in-the-self-driving-race
+https://medium.com/self-driving-cars/independent-self-driving-car-projects-f3aa8f12f886
+
+https://www.ecolane.com/future-of-mobility?hsCtaTracking=3625f227-72f2-4d2e-9477-da2fb7af6837%7C52c482ee-06a8-441f-b6e9-b3e77bc8dffa
+https://medium.com/udacity/amazing-self-driving-car-projects-d0599e2c2097
+https://github.com/eclipse/deeplearning4j-examples
+
+https://www.globalme.net/blog/autonomous-cars-data-not-gasoline
+https://keras.io/getting-started/sequential-model-guide/
+
+https://blog.netapp.com/how-to-build-a-data-pipeline-for-autonomous-driving/
+
+https://www.geospatialworld.net/blogs/how-self-driving-cars-communicate-for-seamless-driving/
+
+https://www.usenix.org/system/files/conference/soups2017/soups2017-bloom.pdf
+
+https://pynative.com/python-mysql-insert-data-into-database-table/
+https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
+
+https://rednews7.com/?p=gbswkztbga5gi3bpge4tgmq
+https://www.unrealengine.com/en-US/spotlights/carla-democratizes-autonomous-vehicle-r-d-with-free-open-source-simulator
+
+https://www.slideshare.net/divyabetha/modified-ppt-for-mtech-project
+
+
+https://www.slideshare.net/divyabetha/modified-ppt-for-mtech-project--------imp!!!!!!!!http://answers.libraries.cam.ac.uk/faq/96123
+https://www.google.com/search?q=all+basics+of+machine+learning&rlz=1C1CHBF_enIN866IN866&oq=all+basisc+of+mac&aqs=chrome.1.69i57j33l7.17446j0j1&sourceid=chrome&ie=UTF-8
+
+
+https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Deep%20learning%22%5D%7D
+
+
+
+https://towardsdatascience.com/network-analysis-to-quickly-get-insight-into-an-academic-field-with-python-cd891717d547-----------------imp!!!!!
+https://github.com/MarioVilas/googlesearch
+
+https://catonmat.net/python-library-for-google-search
+https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview
+https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine
+
+
+http://surpriselib.com/
+https://stackoverflow.com/questions/38635419/searching-in-google-with-python
+
+https://www.quora.com/What-are-the-current-research-issues-in-the-recommendation-system-and-future-scope-of-the-recommendation-system
+
+https://www.researchgate.net/figure/Results-of-our-three-CF-algorithms-on-the-data-set_tbl1_221140956
+
+
+https://medium.com/learning-machine-learning/recommending-animes-using-nearest-neighbors-61320a1a5934
+
+https://github.com/allenai/citeomatic
+https://github.com/linzh92/DeepICF
+https://github.com/irmowan/Collaborative-Filtering
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
