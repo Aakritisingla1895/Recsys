@@ -153,7 +153,7 @@ pymacaroons==0.13.0
 pymongo==3.9.0
 PyNaCl==1.1.2
 pyOpenSSL==19.0.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyRFC3339==1.0
 PySocks==1.7.0
 pytest==3.1.3
